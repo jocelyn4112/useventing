@@ -7,7 +7,7 @@ function results() {
         let list = [];
 
         osmosis
-            // Scrape results
+            // Scrape top free apps
             .get('https://evententries.com/#LiveScores$5stWag00r1gyTkXDbonSw==')
             // All apps exist inside of a div with class card-content
             .find('.card-content')
