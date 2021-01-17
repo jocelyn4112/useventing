@@ -1,15 +1,8 @@
 
-// Scraping using Puppeter
+// Scraping using Puppeter - gets JS to html
 const puppeteer = require('puppeteer');
 
-// (async () => {
-//   const browser = await puppeteer.launch();
-//   const page = await browser.newPage();
-//   await page.goto('https://evententries.com/#LiveScores$5stWag00r1gyTkXDbonSw==', {waitUntil: 'networkidle2'});
-//   await page.screenshot({path: 'Event1.png'});
 
-//   await browser.close();
-// })();
 
 (async () => {
   const browser = await puppeteer.launch();
@@ -20,7 +13,3 @@ const puppeteer = require('puppeteer');
   await browser.close();
 })();
 
-// From Jon
-// const fs = require('fs');
-// var html = await page.content();
-// fs.writeFile('yourfile.html', html);
