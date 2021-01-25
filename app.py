@@ -14,7 +14,7 @@ app.config['MONGO_URI'] = environ.get('MONGODB_URI', 'mongodb+srv://admin:us_eve
 mongo = PyMongo(app)
 
 
-    const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer');
 
 const express = require('express');
 const app = express();
