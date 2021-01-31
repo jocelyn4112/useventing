@@ -14,41 +14,35 @@ app.config['MONGO_URI'] = environ.get('MONGODB_URI', 'mongodb+srv://admin:us_eve
 mongo = PyMongo(app)
 
 
-const puppeteer = require('puppeteer');
+# Routes - render templates
+@app.route('/')
+def index():
+    return render_template('index.html')
 
-const express = require('express');
-const app = express();
-const port = 3000;
+# Individual Page Routes
+# about
+@app.route('/about')
+def about():
+    return render_template('about.html')
 
-app.get('/', async (req, res) => {
-    const {url} = req.query;
-    if(!url) {
-        res.status(400).send("Bad request: 'url' param is missing!");
-        return;
-    }
+# analyze
+@app.route('/visualizations')
+def visualizations():
+    return render_template('visualizations.html')
 
-    try {
-        const html = await getPageHTML(url);
+# explore
+@app.route('/explore')
+def explore():
+    return render_template('explore.html')
 
-        res.status(200).send(html);
-    } catch (error) {
-        res.status(500).send(error);
-    }
-});
+# data
+@app.route('/datafilter')
+def datafilter():
+    return render_template('datafilter.html')
 
-const getPageHTML = async (pageUrl) => {
-    const browser = await puppeteer.launch();
-  
-    const page = await browser.newPage();
-  
-    await page.goto(pageUrl);
-  
-    const pageHTML = await page.evaluate('new XMLSerializer().serializeToString(document.doctype) + document.documentElement.outerHTML');
-  
-    await browser.close();
-  
-    return pageHTML;
-}
+# heatmao
+@app.route('/heatmap')
+def heatmap():
+    return render_template('heatmap.html')
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
