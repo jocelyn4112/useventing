@@ -19,30 +19,30 @@ mongo = PyMongo(app)
 def index():
     return render_template('index.html')
 
-# Individual Page Routes
-# about
-@app.route('/about')
-def about():
-    return render_template('about.html')
+# # Individual Page Routes
+# # about
+# @app.route('/about')
+# def about():
+#     return render_template('about.html')
 
-# analyze
-@app.route('/visualizations')
-def visualizations():
-    return render_template('visualizations.html')
+# # analyze
+# @app.route('/visualizations')
+# def visualizations():
+#     return render_template('visualizations.html')
 
-# explore
-@app.route('/explore')
-def explore():
-    return render_template('explore.html')
+# # explore
+# @app.route('/explore')
+# def explore():
+#     return render_template('explore.html')
 
-# data
-@app.route('/datafilter')
-def datafilter():
-    return render_template('datafilter.html')
+# # data
+# @app.route('/datafilter')
+# def datafilter():
+#     return render_template('datafilter.html')
 
-# heatmao
-@app.route('/heatmap')
-def heatmap():
-    return render_template('heatmap.html')
+# # heatmao
+# @app.route('/heatmap')
+# def heatmap():
+#     return render_template('heatmap.html')
 
 
