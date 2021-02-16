@@ -14,7 +14,8 @@ body {
 }
 
 a {
-  color: #e03a3c;
+  color: #097b35
+;
 }
 
 a:hover {
@@ -45,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #e03a3c;
+  background: #097b35;
   color: #fff;
   transition: all 0.4s;
 }
