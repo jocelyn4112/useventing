@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #e76668;
+  color: #097b35;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #e35052;
+  background: #097b35;
   color: #fff;
 }
 
@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #e03a3c;
+  color: #097b35;
 }
 
 #header .logo img {
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #e03a3c;
+  color: #097b35;
 }
 
 .nav-menu .drop-down ul {
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #e03a3c;
+  color: #097b35;
 }
 
 .nav-menu .drop-down > a:after {
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Get Startet Button */
 .get-started-btn {
   margin-left: 25px;
-  background: #e03a3c;
+  background: #097b35;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #e03a3c;
+  color: #097b35;
   text-decoration: none;
 }
 
@@ -398,8 +398,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #e03a3c;
-  border: 2px solid #e03a3c;
+  background: #097b35;
+  border: 2px solid #097b35;
 }
 
 #hero .btn-get-started:hover {
@@ -457,7 +457,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e03a3c;
+  background: #097b35;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -473,7 +473,8 @@ section {
 
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  background: #074d65
+  ;
   position: absolute;
   bottom: 60px;
   top: 60px;
@@ -572,7 +573,7 @@ section {
 }
 
 .clients .owl-dot.active {
-  background-color: #e03a3c !important;
+  background-color: #097b35 !important;
 }
 
 /*--------------------------------------------------------------
@@ -616,8 +617,8 @@ section {
 }
 
 .about .content .about-btn:hover {
-  background: #e35052;
-  background: #e03a3c;
+  background: #074d65;
+  background: 074d65;
 }
 
 .about .icon-boxes .icon-box {
@@ -626,7 +627,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #e03a3c;
+  color: 074d65;
   margin-bottom: 10px;
 }
 
@@ -677,7 +678,7 @@ section {
   font-size: 24px;
   background: #fff;
   padding: 12px;
-  color: #e03a3c;
+  color: #074d65;
   border-radius: 50px;
   border: 2px solid #fff;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
@@ -727,13 +728,13 @@ section {
 }
 
 .tabs .nav-link:hover {
-  color: #e03a3c;
+  color: #097b35;
 }
 
 .tabs .nav-link.active {
-  background: #e03a3c;
+  background: #097b35;
   color: #fff;
-  border-color: #e03a3c;
+  border-color: #097b35;
 }
 
 @media (max-width: 768px) {
@@ -774,7 +775,7 @@ section {
 .tabs .tab-pane ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #e03a3c;
+  color: #074d65;
 }
 
 .tabs .tab-pane p:last-child {
@@ -788,17 +789,17 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: #252525;
+  background: #4d9caa  ;
   transition: 0.3s;
 }
 
 .services .icon-box:hover {
-  background: #2b2b2b;
+  background: #4d9caa  ;
 }
 
 .services .icon-box i {
   float: left;
-  color: #e03a3c;
+  color: #074d65;
   font-size: 40px;
 }
 
@@ -819,7 +820,7 @@ section {
 }
 
 .services .icon-box .icon-box:hover h4 a {
-  color: #e03a3c;
+  color: #074d65;
 }
 
 .services .icon-box p {
@@ -858,7 +859,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #e03a3c;
+  background: #074d65;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1027,7 +1028,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #e03a3c !important;
+  background-color: #074d65 !important;
 }
 
 @media (max-width: 767px) {
