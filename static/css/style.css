@@ -608,7 +608,7 @@ section {
   font-size: 13px;
   display: inline-flex;
   align-items: center;
-  border: 2px solid #e03a3c;
+  border: 2px solid #097b35;
 }
 
 .about .content .about-btn i {
@@ -1050,7 +1050,7 @@ section {
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
-  background: #2b2b2b;
+  background: #097b35;
   text-align: center;
   border-radius: 8px;
   position: relative;
@@ -1096,7 +1096,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #e03a3c;
+  color: #f7f3f3;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1130,7 +1130,7 @@ section {
 }
 
 .pricing .featured {
-  background: #e03a3c;
+  background: #4d9caa;
 }
 
 /*--------------------------------------------------------------
