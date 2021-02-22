@@ -19,11 +19,11 @@ mongo = PyMongo(app)
 def index():
     return render_template('index.html')
 
-# # Individual Page Routes
-# # about
-# @app.route('/about')
-# def about():
-#     return render_template('about.html')
+# Individual Page Routes
+# form
+@app.route('/form')
+def about():
+    return render_template('form.html')
 
 # # analyze
 # @app.route('/visualizations')
