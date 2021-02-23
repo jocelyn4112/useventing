@@ -45,4 +45,6 @@ def about():
 # def heatmap():
 #     return render_template('heatmap.html')
 
+if __name__ == '__main__':
+    app.run(debug=True)
 
