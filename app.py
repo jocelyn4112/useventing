@@ -7,11 +7,11 @@ import pymongo
 #Build App
 app = Flask(__name__)
 
-#Configure - CHANGE
-app.config['MONGO_URI'] = environ.get('MONGODB_URI', 'mongodb+srv://admin:us_eventing@cluster0.sycdc.mongodb.net/test')
+# #Configure - CHANGE
+# app.config['MONGO_URI'] = environ.get('MONGODB_URI', 'mongodb+srv://admin:us_eventing@cluster0.sycdc.mongodb.net/test')
 
-#Initalize Mongo CLient
-mongo = PyMongo(app)
+# #Initalize Mongo CLient
+# mongo = PyMongo(app)
 
 
 # Routes - render templates
