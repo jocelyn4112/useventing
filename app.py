@@ -22,7 +22,7 @@ def index():
 # Individual Page Routes
 # form
 @app.route('/form')
-def about():
+def form():
     return render_template('form.html')
 
 # # analyze
