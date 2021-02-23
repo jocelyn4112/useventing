@@ -129,7 +129,7 @@
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Cleaning & Transfomation</h4>
+                  <h4>Cleaning & Transformation</h4>
                   <p>Data was obtained from a variety of sites and, as expected, extensive cleaning and wrangling was needed. Python, 
                     Pandas, FuzzyWuzzy and XXX were used during this process to split, transpose, merge, and manage multiple databases.
                      Geolocation and weather data for the seven days prior to the event were merged into the database for analysis.  </p>
@@ -138,14 +138,15 @@
                   <i class="bx bx-images"></i>
                   <h4>Machine Learning </h4>
                   <p>The database contains only raw scores data, without any details as to the type of fall or refusal, what sort of fence
-                     the incident occurred at and what quartile of the course it occured in. Using a Bayesian modeling 
-                     framework to develop missing data in the original dataset in lieu of traditional practice of data dropping or subsituting means. 
-                    In a mamodel was used to   </p>
+                     the incident occurred at and what quartile of the course it occurred on. Using a Bayesian modeling 
+                     framework to develop missing data in the original dataset in lieu of traditional practice of data dropping or substituting means. 
+                     </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="bx bx-shield"></i>
                   <h4>Analysis</h4>
-                  <p>XXXXHHHHHHHHHHHHHHHYYYYYYYYYYYYYYYYYYYYYYYYY</p>
+                  <p>We determined our models’ efficacy by comparing predicted values to known values. Our Bayesian model has an 86% accuracy and our SEquential model has a 97% accuracy. 
+                  </p>
                 </div>
               </div>
             </div><!-- End .content-->
@@ -290,13 +291,13 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
                 </p>
                 <ul>
                   <li><i class="ri-check-double-line"></i> Course comprised of 12-24 jumping efforts, depending on level, over a prescribed course </li>
-                  <li><i class="ri-check-double-line"></i> A stop at an onstacle (a refusal) or running past a jump (a run-out), earns 20 penalty points. 
+                  <li><i class="ri-check-double-line"></i> A stop at an obstacle (a refusal) or running past a jump (a run-out), earns 20 penalty points. 
                     A second refusal or run-out at the same obstacle is an additional 40 points, and a third results in elimination.  </li>
-                  <li><i class="ri-check-double-line"></i> An optimum time range is established to complete the course, penatly points 
+                  <li><i class="ri-check-double-line"></i> An optimum time range is established to complete the course, penalty points 
                     are given for times above or below this range.</li>
                 </ul>
                 <p class="font-italic">
-                  A fall of horse will always result in Eliminaton from the event. As will a fall of rider, excerpt in a few specific circumstances.
+                  A fall of horse will always result in Elimination from the event. As will a fall of rider, except in a few specific circumstances.
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -349,28 +350,41 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <i class="icofont-computer"></i>
               <h4><a href="#">Dirty & Missing Data</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p>Real World data has challenges:
+                <br>- Poor encoding or mixed encoding (this is when they use different labels for the same thing and/or don’t tell the reader what the labels mean. Think RF or different spellings of the same word.) </br>
+                <br>- Transpositions and errors</br>
+                <br>- Missing data</br>
+                <br>- Difficulty extracting meaningful predictions of rare events</br>
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <i class="icofont-chart-bar-graph"></i>
-              <h4><a href="#">Dolor Sitema</a></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4><a href="#">Cleaning Things Up</a></h4>
+              <p>   - Resolved the encoding issue by relying on our resident expert to parse what the varying labels meant. 
+                <br>- Identified transpositions in the data set by evaluating the order of the first 4 columns against expected values. 
+                <br>- Cleaned the data types to ensure that numeric values were not categorized as strings. 
+                <br>- Used Fuzzy Wuzzy to overcome string discrepancies 
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <i class="icofont-image"></i>
-              <h4><a href="#">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4><a href="#">Getting Better Data</a></h4>
+              <p>One of the best ways to improve your data is to improve the collection method. We’ve developed a website that  brings awareness about falls in eventing and collects better data about their occurrence. 
+
+                We’ve incorporated a survey button that gathers data and appends an already existing MongoDB database. The survey constrains the replies a person can give with a drop down  solving the issue of string errors. It also specifically captures data that is likely relevant to fall rate but that doesn’t exist in the dataset, such as fence type. 
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <i class="icofont-settings"></i>
-              <h4><a href="#">Nemo Enim</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4><a href="#">Putting the Data to Work</a></h4>
+              <p>Our survey button will allow us to improve the quality of data collected and enable us to build better models. Using our Baysian Model we’ll be able to predict missing data with 86% accuracy.  With our sequential model we’ll be able to pull out the features that are most relevant to falls with a high degree of confidence (>97%) and use them to predict the likelihood of a fall. For example if weather turns out to be a major predictor of falls, we’ll be able to estimate the likelihood of a fall based on the weather in the days leading up to an event.
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
