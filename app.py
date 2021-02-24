@@ -25,10 +25,10 @@ def index():
 def form():
     return render_template('form.html')
 
-# # analyze
-# @app.route('/visualizations')
-# def visualizations():
-#     return render_template('visualizations.html')
+# vis1
+@app.route('/vis1')
+def vis1():
+    return render_template('vis1.html')
 
 # # explore
 # @app.route('/explore')

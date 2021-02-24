@@ -51,7 +51,7 @@
               <li><a href="blog.html">Map</a></li>
               <li class="drop-down"><a href="">Visualisation</a>
                 <ul>
-                  <li><a href="#">Event 1</a></li>
+                  <li><a href="vis1">Event 1</a></li>
                   <!-- <li class="drop-down"><a href="#">Deep Drop Down</a>
                     <ul>
                       <li><a href="#">Deep Drop Down 1</a></li>
@@ -725,16 +725,16 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
         <ul class="faq-list" data-aos="fade-up">
 
           <li>
-            <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">How was the dadtabase developed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                Event results and data were scraped from publicly available sites using Python and Puppeteer for both HTML and JavaScript based sites into MongoDB. These scrapes collected event results for 2019-2020, however data lacked uniformity and underwent multiple stages of cleaning and transformation including but not limited to 14% of cells being transposed, over 1,000 nominal difference in division names, addition location and dates by row, splitting of rider and horse and other issues.  
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">What features were extracted and fed into the model? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq2" class="collapse" data-parent=".faq-list">
               <p>
                 Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -743,7 +743,7 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq3" class="collapsed"> How was weather and location incorporated in the model? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
                 Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -761,7 +761,7 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq5" class="collapsed">What are the limitations of this data? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq5" class="collapse" data-parent=".faq-list">
               <p>
                 Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
