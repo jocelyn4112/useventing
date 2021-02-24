@@ -30,10 +30,10 @@ def form():
 def vis1():
     return render_template('vis1.html')
 
-# # explore
-# @app.route('/explore')
-# def explore():
-#     return render_template('explore.html')
+# vis2
+@app.route('/vis2')
+def vis2():
+    return render_template('vis2.html')
 
 # # data
 # @app.route('/datafilter')
