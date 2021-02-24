@@ -35,6 +35,11 @@ def vis1():
 def vis2():
     return render_template('vis2.html')
 
+# vis2
+@app.route('/vis3')
+def vis3():
+    return render_template('vis3.html')
+
 # # data
 # @app.route('/datafilter')
 # def datafilter():
