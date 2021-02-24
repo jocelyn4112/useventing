@@ -37,7 +37,7 @@
     <div class="container-fluid">
       <div class="row justify-content-center">
         <div class="col-xl-10 d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="index.html">2019/20 US Eventing Analysis<span>.</span></a></h1>
+          <h1 class="logo mr-auto"><a href="index">Horsepowered Machine Learning<span>.</span></a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html" class="logo mr-auto"><img src="../static/img/logo.png" alt=""></a>-->
 
@@ -45,14 +45,15 @@
             <ul>
               <li class="active"><a href="#header">Home</a></li>
               <li><a href="#about">About</a></li>
-              <li><a href="#services">Services</a></li>
-              <li><a href="#portfolio-details">Portfolio</a></li>
-              <li><a href="#team">Team</a></li>
-              <li><a href="blog.html">Blog</a></li>
-              <li class="drop-down"><a href="">Drop Down</a>
+              <li><a href="#services">ETL</a></li>
+              <li><a href="#pricing">Analysis</a></li>
+              <li><a href="#faq">Process Details</a></li>
+              <li><a href="#team">Team</a></li> 
+              <!-- <li><a href="blog.html">Map</a></li> -->
+              <li class="drop-down"><a href="">Visualisation</a>
                 <ul>
-                  <li><a href="#">Drop Down 1</a></li>
-                  <li class="drop-down"><a href="#">Deep Drop Down</a>
+                  <li><a href="vis1">Falls by Division</a></li>
+                  <!-- <li class="drop-down"><a href="#">Deep Drop Down</a>
                     <ul>
                       <li><a href="#">Deep Drop Down 1</a></li>
                       <li><a href="#">Deep Drop Down 2</a></li>
@@ -60,17 +61,17 @@
                       <li><a href="#">Deep Drop Down 4</a></li>
                       <li><a href="#">Deep Drop Down 5</a></li>
                     </ul>
-                  </li>
-                  <li><a href="#">Drop Down 2</a></li>
-                  <li><a href="#">Drop Down 3</a></li>
-                  <li><a href="#">Drop Down 4</a></li>
+                  </li> -->
+                  <li><a href="#">Event 2</a></li>
+                  <li><a href="#">Event 3</a></li>
+                  <!-- <li><a href="#">Drop Down 4</a></li> -->
                 </ul>
               </li>
-              <li><a href="#contact">Contact</a></li>
+              <!-- <li><a href="#contact">Contact</a></li> -->
             </ul>
           </nav><!-- .nav-menu -->
 
-          <a href="#about" class="get-started-btn scrollto">Get Started</a>
+          <a href="form" class="get-started-btn scrollto">Submit a Ride!</a>
         </div>
       </div>
 
@@ -85,9 +86,9 @@
         <div class="col-xl-10">
           <div class="row">
             <div class="col-xl-5">
-              <h1>Bettter digital experience with Presento</h1>
-              <h2>We are team of talanted designers making websites with Bootstrap</h2>
-              <a href="#about" class="btn-get-started scrollto">Get Started</a>
+              <h1>Safer Eventing Through Machine Learning & Data Analysis</h1>
+              <h2></h2>
+              <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a> -->
             </div>
           </div>
         </div>
@@ -107,11 +108,14 @@
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch">
             <div class="content">
-              <h3>Voluptatem dignissimos provident quasi</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+              <h3>Proposal</h3>
+              <p>While exhilarating and exciting, the sport of eventing is not without risk to horse and rider. 
+                To date, there has been limited data analysis in the US regarding falls and other factors that could 
+                lead to safer events. We collected historical eventing data and applied data analysis and Machine 
+                Learning to identify and predict trends that could make the sport safer using the following processes. 
+                
               </p>
-              <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a>
+              <!-- <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a> -->
             </div>
           </div>
           <div class="col-xl-7 d-flex align-items-stretch">
@@ -119,23 +123,31 @@
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4>Data Collection</h4>
+                  <p>No official repository or data set of US eventing results exists, so various web scraping strategies were employed
+                     to obtain data from HTML and JavaScript based pages to create accurate databases. These were merged together into
+                      a final database, developed in MongoDB, of over 66,000 rides and score data for events occuring in 2019/20.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>Cleaning & Transformation</h4>
+                  <p>Data was obtained from a variety of sites and, as expected, extensive cleaning and wrangling was needed. Python, 
+                    Pandas, FuzzyWuzzy and XXX were used during this process to split, transpose, merge, and manage multiple databases.
+                     Geolocation and weather data for the seven days prior to the event were merged into the database for analysis.  </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4>Machine Learning </h4>
+                  <p>The database contains only raw scores data, without any details as to the type of fall or refusal, what sort of fence
+                     the incident occurred at and what quartile of the course it occurred on. Using a Bayesian modeling 
+                     framework to develop missing data in the original dataset in lieu of traditional practice of data dropping or substituting means. 
+                     </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4>Analysis</h4>
+                  <p>We determined our models’ efficacy by comparing predicted values to known values. Our Bayesian model has an 86% accuracy and our SEquential model has a 97% accuracy. 
+                  </p>
                 </div>
               </div>
             </div><!-- End .content-->
@@ -162,7 +174,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="ri-time-fill"></i>
-              <span data-toggle="counter-up">521</span>
+              <span data-toggle="counter-up">651</span>
               <p>Hours of Crosss Country</p>
             </div>
           </div>
@@ -218,27 +230,26 @@
             </a>
           </li>
         </ul>
-
         <div class="tab-content">
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-                <h3>An Equestrian Triathelon</h3>
+                <h3>An Equestrian Triathlon</h3>
                 <p class="font-italic">
-                  Eventing tests a single horse and rider combination through three distinct phases: 
-                  dressage, cross country and stadium jumping.
+                  Eventing tests a single horse and rider combination through three distinct phases: 
+                  dressage, cross country and show jumping.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> <b>Dressage: </b> The partnership between horse and rider through a 
-                    series of prescribed movements on the flat </li>
+                  <li><i class="ri-check-double-line"></i> <b>Dressage: </b> The partnership between horse and rider through a 
+                    series of prescribed movements on the flat </li>
                   <li><i class="ri-check-double-line"></i> <b>Cross Country Jumping: </b> Challenges the pairs fitness and agility over solid
                      obstacles over varied terrain at speed</li>
                   <li><i class="ri-check-double-line"></i> <b>Stadium Jumping: </b>Precision jumping over more delicate jumps in an arena</li>
                 </ul>
                 <p>
-                  These tests take place over one to three days, all over the US (and world) and represent all levels of riders; from beginners to
-                   Olympic champions. Competitions (governed in the US by the USEA) are scored by penalty points where the lowest score wins. An inherent level
-                    of risk as to be expected with a sport of this nature and with thousands of competitors riding each year, safety is of the utmost concern.
+                  These tests take place over one to three days, all over the US (and world) and represent all levels of riders incrementally by skill; from beginners (Beginner Novice) to
+                   Olympic champions (Advanced level). Competitions, governed in the US by the USEA, are scored by penalty points where the lowest score wins. An inherent level
+                  of risk as to be expected with a sport of this nature and with thousands of competitors riding each year, safety is of the utmost concern.
   
                 </p>
               </div>
@@ -253,71 +264,73 @@
                 <h3>An exercise in precision and partnership </h3>
                 <p>
                   Always the first phase of an event, the origins of dressage come from the cavalry and were developed to show the horse's submission and 
-                  ability to perform intricate movements in the battlefield. Modern dressage, performed in a standard sized arena, is a prescribed set of movements 
-                  designed to show the horse and riders balance, rhythm, suppleness and obedience.
+                  ability to perform intricate movements in the battlefield. 
                 </p>
                 <p class="font-italic">
-                  Each dressage test is divided into movements, with each movement being scored from 0 to 10, with 10 representing the highest scroes. The scores fromthese mo. 
+Modern dressage, performed in a standard sized arena, is a prescribed set of movements. 
+                  designed to show the horse and riders balance, rhythm, suppleness and obedience. The dressage phase is always the first of any event. 
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li><i class="ri-check-double-line"></i> Each dressage test is divided into movements, with each movement being scored from 0 to 10, with 10 representing the highest scores. </li>
+                  <li><i class="ri-check-double-line"></i> Movement scores are combined with collective marks for the pair for paces, impulsion, submission, and rider </li>
+                  <li><i class="ri-check-double-line"></i> Combined these are converted to penalty points</li>
+                  <li><i class="ri-check-double-line"></i> Lowest score in the division is in first place going into jumping phases </li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="../static/img/EventingPics/RolexDress.jpg" alt="" class="img-fluid">
+                <img src="../static/img/EventingPics/TDress.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+              <h3>  The heart of eventing, cross country tests the speed, endurance, and jumping ability of the pair. </h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                The same      horse/ride pair will be tested over a variety of solid jumps and varied terrain including 
+                banks, water, ditches, brush and other formidable jumps. The goal is to complete a clear round - no jumping or time penalties.  
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                  <li><i class="ri-check-double-line"></i> Course comprised of 12-24 jumping efforts, depending on level, over a prescribed course </li>
+                  <li><i class="ri-check-double-line"></i> A stop at an obstacle (a refusal) or running past a jump (a run-out), earns 20 penalty points. 
+                    A second refusal or run-out at the same obstacle is an additional 40 points, and a third results in elimination.  </li>
+                  <li><i class="ri-check-double-line"></i> An optimum time range is established to complete the course, penalty points 
+                    are given for times above or below this range.</li>
                 </ul>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  A fall of horse will always result in Elimination from the event. As will a fall of rider, except in a few specific circumstances.
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="../static/img/EventingPics/greytrach.jpg" alt="" class="img-fluid">
+                <img src="../static/img/EventingPics/Greyxcwill.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                <h3>Precision & Agility</h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                  Show jumping tests horses and riders lightweight, colorful and often whimsical fences made of lightweight rails which are easily knocked down. 
+                  Traditionally the final phase of the event, this tests the stamina and recovery of the horse after cross-country.
+
                 </p>
-                <p class="font-italic">
+                <!-- <p class="font-italic">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                   magna aliqua.
-                </p>
+                </p> -->
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li><i class="ri-check-double-line"></i> Pairs aim for another clear round with no jumping or time penalties</li>
+                  <li><i class="ri-check-double-line"></i> Knocking down a rail or part of the jump results in four penalty points, as does a refusal. 
+                    Elimination occurs after three refusals</li>
+                  <li><i class="ri-check-double-line"></i> A fall of horse or rider automatically results in Elimination. </li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="../static/img/EventingPics/StadiumRedBoyd.jpg" alt="" class="img-fluid">
+                <img src="../static/img/EventingPics/trainingstadium.jpg" alt="" class="img-fluid">
               </div>
             </div>
+
           </div>
         </div>
 
@@ -329,40 +342,53 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Challenges & Observations</h2>
+          <p></p>
         </div>
 
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <i class="icofont-computer"></i>
-              <h4><a href="#">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4><a href="#">Dirty & Missing Data</a></h4>
+              <p>Real World data has challenges:
+                <br>- Poor encoding or mixed encoding (this is when they use different labels for the same thing and/or don’t tell the reader what the labels mean. Think RF or different spellings of the same word.) </br>
+                <br>- Transpositions and errors</br>
+                <br>- Missing data</br>
+                <br>- Difficulty extracting meaningful predictions of rare events</br>
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <i class="icofont-chart-bar-graph"></i>
-              <h4><a href="#">Dolor Sitema</a></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4><a href="#">Cleaning Things Up</a></h4>
+              <p>   - Resolved the encoding issue by relying on our resident expert to parse what the varying labels meant. </br>
+                <br>- Identified transpositions in the data set by evaluating the order of the first 4 columns against expected values. </br>
+                <br>- Cleaned the data types to ensure that numeric values were not categorized as strings. </br>
+                <br>- Used Fuzzy Wuzzy to overcome string discrepancies </br>
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <i class="icofont-image"></i>
-              <h4><a href="#">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4><a href="#">Getting Better Data</a></h4>
+              <p>One of the best ways to improve your data is to improve the collection method. We’ve developed a website that  brings awareness about falls in eventing and collects better data about their occurrence. 
+
+                We’ve incorporated a survey button that gathers data and appends an already existing MongoDB database. The survey constrains the replies a person can give with a drop down  solving the issue of string errors. It also specifically captures data that is likely relevant to fall rate but that doesn’t exist in the dataset, such as fence type. 
+                </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <i class="icofont-settings"></i>
-              <h4><a href="#">Nemo Enim</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4><a href="#">Putting the Data to Work</a></h4>
+              <p>Our survey button will allow us to improve the quality of data collected and enable us to build better models. Using our Baysian Model we’ll be able to predict missing data with 86% accuracy.  With our sequential model we’ll be able to pull out the features that are most relevant to falls with a high degree of confidence (>97%) and use them to predict the likelihood of a fall. For example if weather turns out to be a major predictor of falls, we’ll be able to estimate the likelihood of a fall based on the weather in the days leading up to an event.
+              </p>
             </div>
           </div>
-          <div class="col-md-6 mt-4 mt-md-0">
+          <!-- <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
               <i class="icofont-earth"></i>
               <h4><a href="#">Magni Dolore</a></h4>
@@ -376,7 +402,7 @@
               <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </section><!-- End Services Section -->
@@ -623,93 +649,98 @@
     </section>End Testimonials Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing section-bg">
+    <!-- <section id="pricing" class="pricing section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Analysis</h2>
+          <p>Explore that data, analysis, and visualizations of our Bayesian model and how it aims to predict factors that could lead to a fall.</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <h3>Free</h3>
+              <h3>Falls by Divsion</h3>
               <h4><sup>$</sup>0<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
+                 <li>Nulla at volutpat dola</li>
                 <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
+                <li class="na">Massa ultricies mi</li> -->
+              <!-- </ul> -->
+              <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
+              </div> -->
+            <!-- </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
             <div class="box featured" data-aos="fade-up" data-aos-delay="200">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
+              <h3>Falls by Location </h3> -->
+              <!-- <h4><sup>$</sup>19<span> / month</span></h4> -->
+              <!-- <ul> -->
+                <!-- <li>Aida dere</li>
+                <li>Nec feugiat nisl</li> -->
+                <!-- <li>Nulla at volutpat dola</li>
                 <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
+                <li class="na">Massa ultricies mi</li> -->
+              <!-- </ul> -->
+              <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
+              </div> -->
+            <!-- </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+          <!-- <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box" data-aos="fade-up" data-aos-delay="300">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
+              <h3>Correlations</h3> -->
+              <!-- <h4><sup>$</sup>29<span> / month</span></h4> -->
+              <!-- <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
                 <li>Nulla at volutpat dola</li>
                 <li>Pharetra massa</li>
                 <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
+              </ul> -->
+              <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Buy Now</a>
-              </div>
+              </div> -->
             </div>
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section> <!--SEnd Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+        <!-- <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-        </div>
+        </div> -->
 
         <ul class="faq-list" data-aos="fade-up">
-
           <li>
-            <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">Process Details </a>
+            <!-- <div id="faq1" class="collapse" data-parent=".faq-list">
+              
+            </div> -->
+          </li>
+          <li>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">How was the database developed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                Event results and data were scraped from publicly available sites using Python and Puppeteer for both HTML and JavaScript based sites into MongoDB. These scrapes collected event results for 2019-2020, however data lacked uniformity and underwent multiple stages of cleaning and transformation including but not limited to 14% of cells being transposed, over 1,000 nominal difference in division names, addition location and dates by row, splitting of rider and horse and other issues.  
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">What features were extracted and fed into the model? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq2" class="collapse" data-parent=".faq-list">
               <p>
                 Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -718,7 +749,7 @@
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq3" class="collapsed"> How was weather and location incorporated in the model? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
                 Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -726,32 +757,40 @@
             </div>
           </li>
 
-          <li>
+          <!-- <li>
             <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq4" class="collapse" data-parent=".faq-list">
               <p>
                 Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
               </p>
             </div>
-          </li>
+          </li> -->
 
           <li>
-            <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" href="#faq5" class="collapsed">What are the limitations of this data? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq5" class="collapse" data-parent=".faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                <br>The raw score data available only tells a portion of the story.</br> 
+                <br>For a greater in-depth analysis more granular information is need, including type of fence a refusal or fall occurred, 
+                  the nature of the disobedience and where on course it was in addition to other factors. Additionally, there is no data 
+                  regarding falls in warm-up and factors that contribute to them. Rider demographic information is extremely limited, limited 
+                  to those divisions designated as Junior. Detailed demographic data when applied to the data would add depth to the analysis. </br>
+                <br>To build an ongoing database, detailed ride information is paramount. We have developed a beta version of a collection form and
+                   survey to further build the database. Later applications of the model will include adding refusals, more complete geographic
+                    and weather analysis to the model and in depth quantitative analysis. </br>
+                
               </p>
             </div>
           </li>
 
-          <li>
+          <!-- <li>
             <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq6" class="collapse" data-parent=".faq-list">
               <p>
                 Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
               </p>
             </div>
-          </li>
+          </li> -->
 
         </ul>
 
@@ -764,80 +803,97 @@
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p></p>
         </div>
         <div class="container">
           <!-- <div class="row"> -->
-            <div class="team">
-              <div class="container">
-                          
-                  <div class="row">
-                      
-                  </div>
-                          
-                <div class="row text-center">
-                    
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                         
-                           <img class="img-rounded" alt="team-photo" src="../static/img/team/Heather2.jpg" width="100%"> 
-                           
-                           <div class="team-member">
-                                  
-                           <h4>Heather Allardice</h4>
-                           
-                           <p></p>
-                                  
-                           </div>
-                           
-                           <p class="social">
-                             <a href="#"><span class="fa fa-facebook-square"></span></a>
-                             <a href="#"><span class="fa fa-twitter-square"></span></a>
-                             <a href="#"><span class="fa fa-linkedin-square"></span></a>
-                             <a href="#"><span class="fab fa-github"></span></a>
-                           </p>
-                                                    
-                   </div> <!--col-lg-4 -->
-                      
-                   <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                         
-                           <img class="img-rounded" alt="team-photo" src="../static/img/team/JMC Headshot.jpg" width="100%">
-                           
-                           <div class="team-member">
-                                  
-                           <h4>Jack Doe</h4>
-                           
-                           <p>Web designer</p>
-                                  
-                           </div>
-                           
-                           <p class="social">
-                             <a href="#"><span class="fa fa-facebook-square"></span></a>
-                             <a href="#"><span class="fa fa-twitter-square"></span></a>
-                             <a href="#"><span class="fa fa-linkedin-square"></span></a>
-                             <a href="#"><span class="fa fa-google-plus-square"></span></a>
-                           </p>
-                                                    
-                   </div> <!--col-lg-4 -->
-                      
-                   <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                         
-                           <img class="img-rounded" alt="team-photo" src="https://images.pexels.com/photos/295821/pexels-photo-295821.jpeg?h=350&auto=compress&cs=tinysrgb" width="100%"> 
-                           
-                           <div class="team-member">
-                                  
-                           <h4>James</h4>
-                           
-                           <p>CEO</p>
-                                  
-                           </div>
-                           
-                           <p class="social">
-                             <a href="#"><span class="fa fa-facebook-square"></span></a>
-                             <a href="#"><span class="fa fa-twitter-square"></span></a>
-                             <a href="#"><span class="fa fa-linkedin-square"></span></a>
-                             <a href="#"><span class="fa fa-google-plus-square"></span></a>
-                           </p>
-                                                    
+          
+          
+          
+          <div class="container">
+              <div class="row text-center">
+          
+                  <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/Heather2.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Heather Allardice  </h5><span class="small text-uppercase text-muted">Heather Allardice </span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="https://github.com/allardiceh" class="social-link"><i class="fa fa-github"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+                  <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/JMC Headshot.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Jocelyn Conard</h5><span class="small text-uppercase text-muted">Jocelyn Conard</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="https://github.com/jocelyn4112" class="social-link"><i class="fa fa-github"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.linkedin.com/in/jocelyn-conard/" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+                  <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/megan2.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Megan Cross</h5><span class="small text-uppercase text-muted">Megan Cross</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+                  <! <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/Nate2.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Nate Cross  </h5><span class="small text-uppercase text-muted">Nate Cross</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="https://github.com/doggger" class="social-link"><i class="fa fa-github"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+                  <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/Elizabeth2.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Elizabeth Pasi</h5><span class="small text-uppercase text-muted">Elizabeth Pasi</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="https://github.com/haiwy1218" class="social-link"><i class="fa fa-github"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.linkedin.com/in/jocelyn-conard/" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+                  <!-- Team item -->
+                  <div class="col-xl-4 col-sm-6 mb-5">
+                      <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../static/img/team/Alessandro2.jpg" alt="" width="200" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Alessandro Travaglia</h5><span class="small text-uppercase text-muted">Alessandro Travaglia</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <!-- <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li> -->
+                              <li class="list-inline-item"><a href="https://www.github.com/atravaglia" class="social-link"><i class="fa fa-githib"></i></a></li>
+                              <li class="list-inline-item"><a href="https://www.linkedin.com/in/alessandro-alex-travaglia-872b8141/" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div><!-- End -->
+          
+              </div>
+          </div>
+            <!--                   -->
                       </div> <!-- col-lg-4 -->
                              
                 </div>  <!-- row text-center -->
@@ -929,24 +985,23 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Horsepowered Machine Learning <span>.</span></h3>
+            <h3>Horsepowered Machine Learning<span>.</span></h3>
             <p>
-              <!-- A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 773-612-4152<br>
-              <strong>Email:</strong> info@example.com<br> -->
+               <br>
+              
+              
+             <h2><a href="https://github.com/jocelyn4112/useventing">Github</a><br></h2> 
             </p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Explore</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.htmlt">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="form.html">Submit a Ride!</a></li>
+              <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
             </ul>
           </div>
 
@@ -985,15 +1040,15 @@
           Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div> -->
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <!-- <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
+      </div> -->
     </div>
-  </footer>End Footer
+  </footer>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
