@@ -20,3 +20,5 @@ The Baysian model worked with a 86% accuracy. However, while this outcome is bet
 As was the case with the Baysian model our sequential model was also starved. It accuratly predicted fails 33% of teh time which was only slightly better than chance. After adjustments the accuracy of the model decreased to 0. We believe this is due to a starved model. We are going to continue to fine tune the model by feeding it more data. 
 ​
 To get cleaner, more robust data we have built a web app that will enable people to enter in falls after an event as well as some other parameters such as fence width that we beilive will be relavent. 
+
+For more information please visit: https://us-eventing.herokuapp.com/
