@@ -1,13 +1,13 @@
-# useventing
-Horsepowered Machine Learning 
-eal World Problems are the best teachers. We selected a real world data set scraped from the UAE website to attempt to discover factors that might impact fall rates among riders. 
+
+# Horsepowered Machine Learning 
+eal World Problems are the best teachers. We selected a real world data set scraped from eventing results sites to attempt to discover factors that might impact fall rates among riders in the equestrian sport of eventing. 
 ​
 ​
 Steps
 ​
 1. Scrape the data
-2. decode, clean and wrangle the data,
-3. REad teh peer reviewed papers to identify possible factors
+2. Decode, clean and wrangle the data,
+3. Read the peer reviewed papers to identify possible factors
 4. Run t-tests on a priori factors
 5. build a Baysian Model to fill in missing data points
 6. Build a sequential model to predict falls
