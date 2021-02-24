@@ -25,15 +25,15 @@ def index():
 def form():
     return render_template('form.html')
 
-# # analyze
-# @app.route('/visualizations')
-# def visualizations():
-#     return render_template('visualizations.html')
+# vis1
+@app.route('/vis1')
+def vis1():
+    return render_template('vis1.html')
 
-# # explore
-# @app.route('/explore')
-# def explore():
-#     return render_template('explore.html')
+# vis2
+@app.route('/vis2')
+def vis2():
+    return render_template('vis2.html')
 
 # # data
 # @app.route('/datafilter')
