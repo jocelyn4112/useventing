@@ -719,14 +719,19 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
     <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title2">
+        <div class="section-title">
           <h2>Frequently Asked Questions</h2>
         </div>
 
         <ul class="faq-list" data-aos="fade-up">
-
           <li>
-            <a data-toggle="collapse" class="collapsed" href="#faq1">How was the dadtabase developed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">Process Details <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <!-- <div id="faq1" class="collapse" data-parent=".faq-list">
+              
+            </div> -->
+          </li>
+          <li>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">How was the database developed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
                 Event results and data were scraped from publicly available sites using Python and Puppeteer for both HTML and JavaScript based sites into MongoDB. These scrapes collected event results for 2019-2020, however data lacked uniformity and underwent multiple stages of cleaning and transformation including but not limited to 14% of cells being transposed, over 1,000 nominal difference in division names, addition location and dates by row, splitting of rider and horse and other issues.  
