@@ -2250,11 +2250,18 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(3, 3, 3);
+  color: rgb(7, 60, 231);
   border-radius: 50%;
   transition: all 0.3s;
-  font-size: 0.9rem;
-  background: #097b35;
+  font-size: 1.1rem;
+  background: #e2e5e4;
+}
+
+.sociallink2 {
+  border-radius: 50px;
+  background: #1d6086;
+  box-shadow:  20px 20px 60px #195272,
+             -20px -20px 60px #216e9a;
 }
 
 .social-link:hover, .social-link:focus {
@@ -2263,6 +2270,7 @@ h2 {
   color: rgb(0, 0, 0);
 }
 
-ul {
-  text-align: left;
+ul.teammember {
+  text-align: center;
 }
+
