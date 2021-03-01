@@ -40,10 +40,10 @@ def vis2():
 def vis3():
     return render_template('vis3.html')
 
-# # data
-# @app.route('/datafilter')
-# def datafilter():
-#     return render_template('datafilter.html')
+# data
+@app.route('/map')
+def map():
+    return render_template('map.html')
 
 # # heatmao
 # @app.route('/heatmap')
