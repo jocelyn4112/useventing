@@ -52,4 +52,61 @@ def map():
 
 if __name__ == '__main__':
     app.run(debug=True)
+#Dash 3
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+import plotly.express as px
+import pandas as pd
 
+
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
+df = pd.read_csv('final_df_3'
+fig = px.scatter(df, x="Dress Score", y="Final Score",
+                 size="Difficulty", color="Difficulty", hover_name="country",
+                 log_x=True, size_max=60)
+
+app.layout = html.Div([
+    dcc.Graph(
+        id='life-exp-vs-gdp',
+        figure=fig
+    )
+])
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
+#Dash 2
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import plotly.graph_objects as go
+
+app = dash.Dash(__name__)
+
+app.layout = html.Div([
+    html.P("Color:"),
+    dcc.Dropdown(
+        id="dropdown",
+        options=[
+            {'label': x, 'value': x}
+            for x in ['Gold', 'MediumTurquoise', 'LightGreen']
+        ],
+        value='Gold',
+        clearable=False,
+    ),
+    dcc.Graph(id="graph"),
+])
+
+@app.callback(
+    Output("graph", "figure"), 
+    [Input("dropdown", "value")])
+def display_color(color):
+    fig = go.Figure(
+        data=go.Bar(y=[2, 3, 1], marker_color=color))
+    return fig
+
+app.run_server(debug=True)
