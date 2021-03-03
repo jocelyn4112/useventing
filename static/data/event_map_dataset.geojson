@@ -1,0 +1,3773 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.91386,39.4572 ]
+    },
+    "properties": {
+    "Title":"Full Moon Farms H.T.(Nov 2020)",
+    "temp-end":59.9,
+    "precip-end":0,
+    "wspd-end":4.9,
+    "visibility-end":9.8,
+    "cloudcover-end":3.2,
+    "moonphase-end":0.72,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.19,
+    "Event_Falls":1,
+    "Ride_Count":130,
+    "Fall_Rate_Decimal":0.007692308,
+    "Fall_Rate_Percent":0.769230769,
+    "End_Datetime":"11/8/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Horse Trials at Majestic Oaks (Nov 2020)",
+    "temp-end":74.7,
+    "precip-end":0,
+    "wspd-end":16.2,
+    "visibility-end":9.7,
+    "cloudcover-end":54.1,
+    "moonphase-end":0.67,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.01,
+    "Precip_Prior_7_Day":0.18,
+    "Event_Falls":2,
+    "Ride_Count":120,
+    "Fall_Rate_Decimal":0.016666667,
+    "Fall_Rate_Percent":1.666666667,
+    "End_Datetime":"11/7/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"November 5th: Barnstaple Jackpot + 3-Phase",
+    "temp-end":69.9,
+    "precip-end":0,
+    "wspd-end":12.6,
+    "visibility-end":9.8,
+    "cloudcover-end":35.1,
+    "moonphase-end":0.59,
+    "Precip_Prior_3_Day":0.01,
+    "Precip_Prior_5_Day":0.18,
+    "Precip_Prior_7_Day":0.23,
+    "Event_Falls":0,
+    "Ride_Count":21,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"11/5/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs International Event & H.T.(Oct 2020)",
+    "temp-end":60.7,
+    "precip-end":0,
+    "wspd-end":8.4,
+    "visibility-end":9.7,
+    "cloudcover-end":0,
+    "moonphase-end":0.44,
+    "Precip_Prior_3_Day":0.06,
+    "Precip_Prior_5_Day":0.06,
+    "Precip_Prior_7_Day":0.06,
+    "Event_Falls":11,
+    "Ride_Count":376,
+    "Fall_Rate_Decimal":0.029255319,
+    "Fall_Rate_Percent":2.925531915,
+    "End_Datetime":"10/28/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.71646,33.63024 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T.(Oct 2020)",
+    "temp-end":68.2,
+    "precip-end":2.75,
+    "wspd-end":6.6,
+    "visibility-end":7.9,
+    "cloudcover-end":72.5,
+    "moonphase-end":0.27,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":7,
+    "Ride_Count":204,
+    "Fall_Rate_Decimal":0.034313725,
+    "Fall_Rate_Percent":3.431372549,
+    "End_Datetime":"10/24/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Grand Oaks Horse Trials",
+    "temp-end":64.1,
+    "precip-end":0.14,
+    "wspd-end":13.4,
+    "visibility-end":8.7,
+    "cloudcover-end":25.5,
+    "moonphase-end":0.92,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.01,
+    "Event_Falls":3,
+    "Ride_Count":169,
+    "Fall_Rate_Decimal":0.017751479,
+    "Fall_Rate_Percent":1.775147929,
+    "End_Datetime":"11/23/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Grand Oaks Horse Trials",
+    "temp-end":64.1,
+    "precip-end":0.14,
+    "wspd-end":13.4,
+    "visibility-end":8.7,
+    "cloudcover-end":25.5,
+    "moonphase-end":0.92,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.01,
+    "Event_Falls":3,
+    "Ride_Count":169,
+    "Fall_Rate_Decimal":0.017751479,
+    "Fall_Rate_Percent":1.775147929,
+    "End_Datetime":"1/18/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08061,39.23332 ]
+    },
+    "properties": {
+    "Title":"Waredaca Classic Horse Trials (Oct 2020)",
+    "temp-end":66.3,
+    "precip-end":0.01,
+    "wspd-end":7.9,
+    "visibility-end":5.5,
+    "cloudcover-end":30.1,
+    "moonphase-end":0.17,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.1,
+    "Event_Falls":3,
+    "Ride_Count":99,
+    "Fall_Rate_Decimal":0.03030303,
+    "Fall_Rate_Percent":3.03030303,
+    "End_Datetime":"10/22/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"8/9/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"2/17/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"10/20/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"7/21/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"5/12/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"2/24/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling H.T.",
+    "temp-end":81.2,
+    "precip-end":0,
+    "wspd-end":11.6,
+    "visibility-end":9.5,
+    "cloudcover-end":3.9,
+    "moonphase-end":0.63,
+    "Precip_Prior_3_Day":1.51,
+    "Precip_Prior_5_Day":3.29,
+    "Precip_Prior_7_Day":4.7,
+    "Event_Falls":5,
+    "Ride_Count":532,
+    "Fall_Rate_Decimal":0.009398496,
+    "Fall_Rate_Percent":0.939849624,
+    "End_Datetime":"12/13/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36633,35.01506 ]
+    },
+    "properties": {
+    "Title":"War Horse Event Series October H.T.(Oct 2020)",
+    "temp-end":70.3,
+    "precip-end":1.14,
+    "wspd-end":9.3,
+    "visibility-end":7.4,
+    "cloudcover-end":94.7,
+    "moonphase-end":0.81,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":0,
+    "Ride_Count":2,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"10/11/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84457,42.36583 ]
+    },
+    "properties": {
+    "Title":"Glenarden Farms Horse Trials",
+    "temp-end":72.6,
+    "precip-end":0,
+    "wspd-end":6.2,
+    "visibility-end":8.5,
+    "cloudcover-end":9.2,
+    "moonphase-end":0.11,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.6,
+    "Precip_Prior_7_Day":1.66,
+    "Event_Falls":10,
+    "Ride_Count":243,
+    "Fall_Rate_Decimal":0.041152263,
+    "Fall_Rate_Percent":4.115226337,
+    "End_Datetime":"7/25/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84457,42.36583 ]
+    },
+    "properties": {
+    "Title":"Glenarden Farms Horse Trials",
+    "temp-end":72.6,
+    "precip-end":0,
+    "wspd-end":6.2,
+    "visibility-end":8.5,
+    "cloudcover-end":9.2,
+    "moonphase-end":0.11,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.6,
+    "Precip_Prior_7_Day":1.66,
+    "Event_Falls":10,
+    "Ride_Count":243,
+    "Fall_Rate_Decimal":0.041152263,
+    "Fall_Rate_Percent":4.115226337,
+    "End_Datetime":"10/12/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84457,42.36583 ]
+    },
+    "properties": {
+    "Title":"Glenarden Farms Horse Trials",
+    "temp-end":72.6,
+    "precip-end":0,
+    "wspd-end":6.2,
+    "visibility-end":8.5,
+    "cloudcover-end":9.2,
+    "moonphase-end":0.11,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.6,
+    "Precip_Prior_7_Day":1.66,
+    "Event_Falls":10,
+    "Ride_Count":243,
+    "Fall_Rate_Decimal":0.041152263,
+    "Fall_Rate_Percent":4.115226337,
+    "End_Datetime":"7/27/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84457,42.36583 ]
+    },
+    "properties": {
+    "Title":"Glenarden Farms Horse Trials",
+    "temp-end":72.6,
+    "precip-end":0,
+    "wspd-end":6.2,
+    "visibility-end":8.5,
+    "cloudcover-end":9.2,
+    "moonphase-end":0.11,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.6,
+    "Precip_Prior_7_Day":1.66,
+    "Event_Falls":10,
+    "Ride_Count":243,
+    "Fall_Rate_Decimal":0.041152263,
+    "Fall_Rate_Percent":4.115226337,
+    "End_Datetime":"10/10/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24548,37.40747 ]
+    },
+    "properties": {
+    "Title":"Woodside International H.T.(Oct 2020)",
+    "temp-end":60.7,
+    "precip-end":0,
+    "wspd-end":10.6,
+    "visibility-end":8,
+    "cloudcover-end":96.4,
+    "moonphase-end":0.66,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":10,
+    "Ride_Count":376,
+    "Fall_Rate_Decimal":0.026595745,
+    "Fall_Rate_Percent":2.659574468,
+    "End_Datetime":"10/8/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5168,38.15169 ]
+    },
+    "properties": {
+    "Title":"Bath Pony Club Mini Trial",
+    "temp-end":55.7,
+    "precip-end":0.03,
+    "wspd-end":14.4,
+    "visibility-end":9.9,
+    "cloudcover-end":68.2,
+    "moonphase-end":0.52,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.28,
+    "Precip_Prior_7_Day":0.52,
+    "Event_Falls":2,
+    "Ride_Count":230,
+    "Fall_Rate_Decimal":0.008695652,
+    "Fall_Rate_Percent":0.869565217,
+    "End_Datetime":"10/4/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5168,38.15169 ]
+    },
+    "properties": {
+    "Title":"Bath Pony Club Mini Trial",
+    "temp-end":55.7,
+    "precip-end":0.03,
+    "wspd-end":14.4,
+    "visibility-end":9.9,
+    "cloudcover-end":68.2,
+    "moonphase-end":0.52,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.28,
+    "Precip_Prior_7_Day":0.52,
+    "Event_Falls":2,
+    "Ride_Count":230,
+    "Fall_Rate_Decimal":0.008695652,
+    "Fall_Rate_Percent":0.869565217,
+    "End_Datetime":"8/16/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55527,39.14542 ]
+    },
+    "properties": {
+    "Title":"Morven Park Fall International H.T. & CCIS",
+    "temp-end":55.5,
+    "precip-end":0.09,
+    "wspd-end":14.4,
+    "visibility-end":9.9,
+    "cloudcover-end":42.7,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0.42,
+    "Precip_Prior_5_Day":0.43,
+    "Precip_Prior_7_Day":0.74,
+    "Event_Falls":16,
+    "Ride_Count":333,
+    "Fall_Rate_Decimal":0.048048048,
+    "Fall_Rate_Percent":4.804804805,
+    "End_Datetime":"10/2/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.49821,40.19321 ]
+    },
+    "properties": {
+    "Title":"ESDCTA New Jersey H.T. at the Horsepark",
+    "temp-end":70.2,
+    "precip-end":0,
+    "wspd-end":8.9,
+    "visibility-end":7.4,
+    "cloudcover-end":81.1,
+    "moonphase-end":0.39,
+    "Precip_Prior_3_Day":0.07,
+    "Precip_Prior_5_Day":0.07,
+    "Precip_Prior_7_Day":0.07,
+    "Event_Falls":11,
+    "Ride_Count":332,
+    "Fall_Rate_Decimal":0.03313253,
+    "Fall_Rate_Percent":3.313253012,
+    "End_Datetime":"9/27/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.49821,40.19321 ]
+    },
+    "properties": {
+    "Title":"ESDCTA New Jersey H.T. at the Horsepark",
+    "temp-end":70.2,
+    "precip-end":0,
+    "wspd-end":8.9,
+    "visibility-end":7.4,
+    "cloudcover-end":81.1,
+    "moonphase-end":0.39,
+    "Precip_Prior_3_Day":0.07,
+    "Precip_Prior_5_Day":0.07,
+    "Precip_Prior_7_Day":0.07,
+    "Event_Falls":11,
+    "Ride_Count":332,
+    "Fall_Rate_Decimal":0.03313253,
+    "Fall_Rate_Percent":3.313253012,
+    "End_Datetime":"9/29/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.64431,42.47909 ]
+    },
+    "properties": {
+    "Title":"Larkin Hill HT",
+    "temp-end":63.1,
+    "precip-end":0,
+    "wspd-end":12.7,
+    "visibility-end":7.1,
+    "cloudcover-end":45.3,
+    "moonphase-end":0.35,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":28,
+    "Ride_Count":897,
+    "Fall_Rate_Decimal":0.031215162,
+    "Fall_Rate_Percent":3.121516165,
+    "End_Datetime":"9/26/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Barnstaple South Jackpot and 3-Phase (Sept. 24)",
+    "temp-end":77.7,
+    "precip-end":0,
+    "wspd-end":11.5,
+    "visibility-end":9.9,
+    "cloudcover-end":25.4,
+    "moonphase-end":0.25,
+    "Precip_Prior_3_Day":0.01,
+    "Precip_Prior_5_Day":0.12,
+    "Precip_Prior_7_Day":0.75,
+    "Event_Falls":0,
+    "Ride_Count":35,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"9/24/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Oktoberfest 1/ 2/3/4* and H.T.",
+    "temp-end":77.9,
+    "precip-end":0,
+    "wspd-end":8.8,
+    "visibility-end":8.4,
+    "cloudcover-end":24.9,
+    "moonphase-end":0.98,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":19,
+    "Ride_Count":665,
+    "Fall_Rate_Decimal":0.028571429,
+    "Fall_Rate_Percent":2.857142857,
+    "End_Datetime":"9/27/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Sept. Schooling HT",
+    "temp-end":80.9,
+    "precip-end":0,
+    "wspd-end":10.6,
+    "visibility-end":9.9,
+    "cloudcover-end":10.2,
+    "moonphase-end":0.34,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.19,
+    "Event_Falls":1,
+    "Ride_Count":71,
+    "Fall_Rate_Decimal":0.014084507,
+    "Fall_Rate_Percent":1.408450704,
+    "End_Datetime":"9/8/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Sept. Schooling HT",
+    "temp-end":80.9,
+    "precip-end":0,
+    "wspd-end":10.6,
+    "visibility-end":9.9,
+    "cloudcover-end":10.2,
+    "moonphase-end":0.34,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.19,
+    "Event_Falls":1,
+    "Ride_Count":71,
+    "Fall_Rate_Decimal":0.014084507,
+    "Fall_Rate_Percent":1.408450704,
+    "End_Datetime":"9/20/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.57221,41.86124 ]
+    },
+    "properties": {
+    "Title":"Apple Knoll Farm H.T.(Sep 2020)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":4,
+    "Ride_Count":83,
+    "Fall_Rate_Decimal":0.048192771,
+    "Fall_Rate_Percent":4.819277108,
+    "End_Datetime":"9/19/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78744,39.90874 ]
+    },
+    "properties": {
+    "Title":"Plantation Field International CCI-S(Sep 2020)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":7,
+    "Ride_Count":184,
+    "Fall_Rate_Decimal":0.038043478,
+    "Fall_Rate_Percent":3.804347826,
+    "End_Datetime":"9/16/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.39974,42.25229 ]
+    },
+    "properties": {
+    "Title":"Course Brook Farm Horse Trials",
+    "temp-end":77.7,
+    "precip-end":0,
+    "wspd-end":9.9,
+    "visibility-end":7.7,
+    "cloudcover-end":20.4,
+    "moonphase-end":0.96,
+    "Precip_Prior_3_Day":0.18,
+    "Precip_Prior_5_Day":0.51,
+    "Precip_Prior_7_Day":0.54,
+    "Event_Falls":7,
+    "Ride_Count":320,
+    "Fall_Rate_Decimal":0.021875,
+    "Fall_Rate_Percent":2.1875,
+    "End_Datetime":"7/18/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Majestic Oaks Schooling Show",
+    "temp-end":58.9,
+    "precip-end":0.02,
+    "wspd-end":5.5,
+    "visibility-end":8.8,
+    "cloudcover-end":74.4,
+    "moonphase-end":0.95,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.15,
+    "Precip_Prior_7_Day":0.35,
+    "Event_Falls":0,
+    "Ride_Count":67,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"12/12/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.53926,43.55708 ]
+    },
+    "properties": {
+    "Title":"GMHA Starter Horse Trials (Aug 2020)",
+    "temp-end":63.1,
+    "precip-end":0,
+    "wspd-end":11,
+    "visibility-end":9.9,
+    "cloudcover-end":67.1,
+    "moonphase-end":0.45,
+    "Precip_Prior_3_Day":0.83,
+    "Precip_Prior_5_Day":1.32,
+    "Precip_Prior_7_Day":1.59,
+    "Event_Falls":0,
+    "Ride_Count":71,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"8/30/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T. (Aug 2020)",
+    "temp-end":80.5,
+    "precip-end":0,
+    "wspd-end":12.2,
+    "visibility-end":9.7,
+    "cloudcover-end":63.5,
+    "moonphase-end":0.41,
+    "Precip_Prior_3_Day":0.08,
+    "Precip_Prior_5_Day":1.57,
+    "Precip_Prior_7_Day":1.61,
+    "Event_Falls":10,
+    "Ride_Count":322,
+    "Fall_Rate_Decimal":0.031055901,
+    "Fall_Rate_Percent":3.105590062,
+    "End_Datetime":"8/29/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36633,35.01506 ]
+    },
+    "properties": {
+    "Title":"War Horse Event Series (Aug 2020)",
+    "temp-end":77.8,
+    "precip-end":0.04,
+    "wspd-end":10.5,
+    "visibility-end":9.7,
+    "cloudcover-end":45.4,
+    "moonphase-end":0.1,
+    "Precip_Prior_3_Day":0.24,
+    "Precip_Prior_5_Day":1.13,
+    "Precip_Prior_7_Day":1.26,
+    "Event_Falls":1,
+    "Ride_Count":60,
+    "Fall_Rate_Decimal":0.016666667,
+    "Fall_Rate_Percent":1.666666667,
+    "End_Datetime":"8/23/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm August HT(Aug 2020)",
+    "temp-end":78.7,
+    "precip-end":0.41,
+    "wspd-end":12.3,
+    "visibility-end":8.7,
+    "cloudcover-end":53.1,
+    "moonphase-end":0.91,
+    "Precip_Prior_3_Day":0.64,
+    "Precip_Prior_5_Day":1.69,
+    "Precip_Prior_7_Day":1.8,
+    "Event_Falls":5,
+    "Ride_Count":74,
+    "Fall_Rate_Decimal":0.067567568,
+    "Fall_Rate_Percent":6.756756757,
+    "End_Datetime":"8/15/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.86013,39.70171 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International August Horse Trials",
+    "temp-end":74.7,
+    "precip-end":0,
+    "wspd-end":5.2,
+    "visibility-end":9.6,
+    "cloudcover-end":34.1,
+    "moonphase-end":0.59,
+    "Precip_Prior_3_Day":2.52,
+    "Precip_Prior_5_Day":6.48,
+    "Precip_Prior_7_Day":6.49,
+    "Event_Falls":17,
+    "Ride_Count":578,
+    "Fall_Rate_Decimal":0.029411765,
+    "Fall_Rate_Percent":2.941176471,
+    "End_Datetime":"8/8/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.86013,39.70171 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International August Horse Trials",
+    "temp-end":74.7,
+    "precip-end":0,
+    "wspd-end":5.2,
+    "visibility-end":9.6,
+    "cloudcover-end":34.1,
+    "moonphase-end":0.59,
+    "Precip_Prior_3_Day":2.52,
+    "Precip_Prior_5_Day":6.48,
+    "Precip_Prior_7_Day":6.49,
+    "Event_Falls":17,
+    "Ride_Count":578,
+    "Fall_Rate_Decimal":0.029411765,
+    "Fall_Rate_Percent":2.941176471,
+    "End_Datetime":"8/10/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24548,37.40747 ]
+    },
+    "properties": {
+    "Title":"The Summer Event at Woodside (Aug 2020)",
+    "temp-end":63.3,
+    "precip-end":0,
+    "wspd-end":17.5,
+    "visibility-end":8.5,
+    "cloudcover-end":60.6,
+    "moonphase-end":0.53,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":0.02,
+    "Precip_Prior_7_Day":0.02,
+    "Event_Falls":12,
+    "Ride_Count":358,
+    "Fall_Rate_Decimal":0.033519553,
+    "Fall_Rate_Percent":3.351955307,
+    "End_Datetime":"8/6/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.49821,40.19321 ]
+    },
+    "properties": {
+    "Title":"Horse Park of New Jersey H.T. II",
+    "temp-end":75.2,
+    "precip-end":1.22,
+    "wspd-end":9.1,
+    "visibility-end":9.5,
+    "cloudcover-end":61,
+    "moonphase-end":0.07,
+    "Precip_Prior_3_Day":0.39,
+    "Precip_Prior_5_Day":0.39,
+    "Precip_Prior_7_Day":0.39,
+    "Event_Falls":5,
+    "Ride_Count":114,
+    "Fall_Rate_Decimal":0.043859649,
+    "Fall_Rate_Percent":4.385964912,
+    "End_Datetime":"7/24/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stableview Eventing Academy- July",
+    "temp-end":86.9,
+    "precip-end":0,
+    "wspd-end":6.5,
+    "visibility-end":9.8,
+    "cloudcover-end":5.1,
+    "moonphase-end":0.99,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":1,
+    "Ride_Count":77,
+    "Fall_Rate_Decimal":0.012987013,
+    "Fall_Rate_Percent":1.298701299,
+    "End_Datetime":"7/19/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.15521,42.53547 ]
+    },
+    "properties": {
+    "Title":"Silverwood Farm Summer Horse Trials",
+    "temp-end":77.4,
+    "precip-end":0.39,
+    "wspd-end":15.6,
+    "visibility-end":9.6,
+    "cloudcover-end":45.5,
+    "moonphase-end":0.54,
+    "Precip_Prior_3_Day":1.55,
+    "Precip_Prior_5_Day":1.55,
+    "Precip_Prior_7_Day":1.55,
+    "Event_Falls":2,
+    "Ride_Count":225,
+    "Fall_Rate_Decimal":0.008888889,
+    "Fall_Rate_Percent":0.888888889,
+    "End_Datetime":"7/20/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs Horse Trials (July 2020)",
+    "temp-end":71,
+    "precip-end":0,
+    "wspd-end":11.1,
+    "visibility-end":9.2,
+    "cloudcover-end":14.5,
+    "moonphase-end":0.93,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":8,
+    "Ride_Count":217,
+    "Fall_Rate_Decimal":0.036866359,
+    "Fall_Rate_Percent":3.686635945,
+    "End_Datetime":"7/17/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.86507,32.7023 ]
+    },
+    "properties": {
+    "Title":"Poplar Place Farm May H.T.(JULY 2020)",
+    "temp-end":84.7,
+    "precip-end":0,
+    "wspd-end":14.8,
+    "visibility-end":9.9,
+    "cloudcover-end":0.7,
+    "moonphase-end":0.66,
+    "Precip_Prior_3_Day":0.27,
+    "Precip_Prior_5_Day":1.98,
+    "Precip_Prior_7_Day":2.03,
+    "Event_Falls":7,
+    "Ride_Count":116,
+    "Fall_Rate_Decimal":0.060344828,
+    "Fall_Rate_Percent":6.034482759,
+    "End_Datetime":"7/11/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42949,39.27075 ]
+    },
+    "properties": {
+    "Title":"Maryland H.T. at Loch Moy Farm II(Jul 2020)",
+    "temp-end":78.5,
+    "precip-end":0,
+    "wspd-end":8,
+    "visibility-end":9.9,
+    "cloudcover-end":38.8,
+    "moonphase-end":0.62,
+    "Precip_Prior_3_Day":1.09,
+    "Precip_Prior_5_Day":1.65,
+    "Precip_Prior_7_Day":1.65,
+    "Event_Falls":16,
+    "Ride_Count":412,
+    "Fall_Rate_Decimal":0.038834951,
+    "Fall_Rate_Percent":3.883495146,
+    "End_Datetime":"7/10/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Schooling Show (June2020)",
+    "temp-end":79.6,
+    "precip-end":0.07,
+    "wspd-end":21,
+    "visibility-end":9.9,
+    "cloudcover-end":37.6,
+    "moonphase-end":0.23,
+    "Precip_Prior_3_Day":2.14,
+    "Precip_Prior_5_Day":3.41,
+    "Precip_Prior_7_Day":3.44,
+    "Event_Falls":0,
+    "Ride_Count":36,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"6/28/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills HT Summer 1",
+    "temp-end":74.1,
+    "precip-end":0.46,
+    "wspd-end":22.4,
+    "visibility-end":8.5,
+    "cloudcover-end":38.3,
+    "moonphase-end":0.17,
+    "Precip_Prior_3_Day":0.51,
+    "Precip_Prior_5_Day":1.07,
+    "Precip_Prior_7_Day":1.14,
+    "Event_Falls":18,
+    "Ride_Count":438,
+    "Fall_Rate_Decimal":0.04109589,
+    "Fall_Rate_Percent":4.109589041,
+    "End_Datetime":"6/27/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.49821,40.19321 ]
+    },
+    "properties": {
+    "Title":"Horse Park of New Jersey H.T. I",
+    "temp-end":78.9,
+    "precip-end":0.02,
+    "wspd-end":8.8,
+    "visibility-end":9.8,
+    "cloudcover-end":11,
+    "moonphase-end":0.88,
+    "Precip_Prior_3_Day":0.61,
+    "Precip_Prior_5_Day":0.61,
+    "Precip_Prior_7_Day":1.01,
+    "Event_Falls":17,
+    "Ride_Count":482,
+    "Fall_Rate_Decimal":0.03526971,
+    "Fall_Rate_Percent":3.526970954,
+    "End_Datetime":"6/28/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.50306,32.47226 ]
+    },
+    "properties": {
+    "Title":"Texas Rose Horse Park H.T.",
+    "temp-end":81.4,
+    "precip-end":0,
+    "wspd-end":13.6,
+    "visibility-end":9.9,
+    "cloudcover-end":9.1,
+    "moonphase-end":0.98,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":0.21,
+    "Precip_Prior_7_Day":0.21,
+    "Event_Falls":9,
+    "Ride_Count":179,
+    "Fall_Rate_Decimal":0.05027933,
+    "Fall_Rate_Percent":5.027932961,
+    "End_Datetime":"6/19/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.52321,38.42696 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm HT",
+    "temp-end":68.9,
+    "precip-end":0.07,
+    "wspd-end":11.1,
+    "visibility-end":9.9,
+    "cloudcover-end":44,
+    "moonphase-end":0.79,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.11,
+    "Precip_Prior_7_Day":0.11,
+    "Event_Falls":3,
+    "Ride_Count":146,
+    "Fall_Rate_Decimal":0.020547945,
+    "Fall_Rate_Percent":2.054794521,
+    "End_Datetime":"6/14/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.52321,38.42696 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm HT",
+    "temp-end":68.9,
+    "precip-end":0.07,
+    "wspd-end":11.1,
+    "visibility-end":9.9,
+    "cloudcover-end":44,
+    "moonphase-end":0.79,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.11,
+    "Precip_Prior_7_Day":0.11,
+    "Event_Falls":3,
+    "Ride_Count":146,
+    "Fall_Rate_Decimal":0.020547945,
+    "Fall_Rate_Percent":2.054794521,
+    "End_Datetime":"3/28/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.15521,42.53547 ]
+    },
+    "properties": {
+    "Title":"Silverwood Farm Spring Horse Trials",
+    "temp-end":56.3,
+    "precip-end":0,
+    "wspd-end":14,
+    "visibility-end":9.9,
+    "cloudcover-end":16.4,
+    "moonphase-end":0.74,
+    "Precip_Prior_3_Day":0.55,
+    "Precip_Prior_5_Day":0.74,
+    "Precip_Prior_7_Day":0.74,
+    "Event_Falls":0,
+    "Ride_Count":208,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"6/13/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.331,35.23746 ]
+    },
+    "properties": {
+    "Title":"Feather Creek Farm H.T.(June 2020)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":3,
+    "Ride_Count":80,
+    "Fall_Rate_Decimal":0.0375,
+    "Fall_Rate_Percent":3.75,
+    "End_Datetime":"6/6/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Schooling Show (May 2020)",
+    "temp-end":77.4,
+    "precip-end":0.74,
+    "wspd-end":12.3,
+    "visibility-end":9,
+    "cloudcover-end":49.2,
+    "moonphase-end":0.24,
+    "Precip_Prior_3_Day":0.56,
+    "Precip_Prior_5_Day":0.92,
+    "Precip_Prior_7_Day":1.45,
+    "Event_Falls":0,
+    "Ride_Count":26,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"5/30/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Eventing Academy Schooling HorseTrial",
+    "temp-end":76.9,
+    "precip-end":0.33,
+    "wspd-end":13,
+    "visibility-end":9.7,
+    "cloudcover-end":18.2,
+    "moonphase-end":0,
+    "Precip_Prior_3_Day":0.92,
+    "Precip_Prior_5_Day":5.57,
+    "Precip_Prior_7_Day":5.57,
+    "Event_Falls":4,
+    "Ride_Count":169,
+    "Fall_Rate_Decimal":0.023668639,
+    "Fall_Rate_Percent":2.366863905,
+    "End_Datetime":"5/23/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6406,31.26988 ]
+    },
+    "properties": {
+    "Title":"Meadow Creek Park - The Spring Social Event",
+    "temp-end":50.1,
+    "precip-end":0,
+    "wspd-end":7.9,
+    "visibility-end":9.9,
+    "cloudcover-end":27.9,
+    "moonphase-end":0.34,
+    "Precip_Prior_3_Day":1.45,
+    "Precip_Prior_5_Day":1.47,
+    "Precip_Prior_7_Day":1.63,
+    "Event_Falls":12,
+    "Ride_Count":190,
+    "Fall_Rate_Decimal":0.063157895,
+    "Fall_Rate_Percent":6.315789474,
+    "End_Datetime":"3/16/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6406,31.26988 ]
+    },
+    "properties": {
+    "Title":"Meadow Creek Park - The Spring Social Event",
+    "temp-end":50.1,
+    "precip-end":0,
+    "wspd-end":7.9,
+    "visibility-end":9.9,
+    "cloudcover-end":27.9,
+    "moonphase-end":0.34,
+    "Precip_Prior_3_Day":1.45,
+    "Precip_Prior_5_Day":1.47,
+    "Precip_Prior_7_Day":1.63,
+    "Event_Falls":12,
+    "Ride_Count":190,
+    "Fall_Rate_Decimal":0.063157895,
+    "Fall_Rate_Percent":6.315789474,
+    "End_Datetime":"3/13/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.23961,29.95875 ]
+    },
+    "properties": {
+    "Title":"Pine Top Spring Horse Trials",
+    "temp-end":55.6,
+    "precip-end":0,
+    "wspd-end":15.7,
+    "visibility-end":9.9,
+    "cloudcover-end":38.5,
+    "moonphase-end":0.28,
+    "Precip_Prior_3_Day":0.6,
+    "Precip_Prior_5_Day":0.6,
+    "Precip_Prior_7_Day":0.6,
+    "Event_Falls":14,
+    "Ride_Count":570,
+    "Fall_Rate_Decimal":0.024561404,
+    "Fall_Rate_Percent":2.456140351,
+    "End_Datetime":"3/15/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.13986,29.05603 ]
+    },
+    "properties": {
+    "Title":"Ocala Winter II H.T.(Mar 2020)",
+    "temp-end":68.4,
+    "precip-end":0,
+    "wspd-end":5.7,
+    "visibility-end":9.7,
+    "cloudcover-end":10.2,
+    "moonphase-end":0.54,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.03,
+    "Event_Falls":14,
+    "Ride_Count":523,
+    "Fall_Rate_Decimal":0.026768642,
+    "Fall_Rate_Percent":2.676864245,
+    "End_Datetime":"3/12/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Schooling Show (March 11)",
+    "temp-end":64.2,
+    "precip-end":0,
+    "wspd-end":19,
+    "visibility-end":9.6,
+    "cloudcover-end":30.4,
+    "moonphase-end":0.52,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":1.8,
+    "Event_Falls":1,
+    "Ride_Count":45,
+    "Fall_Rate_Decimal":0.022222222,
+    "Fall_Rate_Percent":2.222222222,
+    "End_Datetime":"3/11/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm March H.T.",
+    "temp-end":43.2,
+    "precip-end":0,
+    "wspd-end":14.2,
+    "visibility-end":9.9,
+    "cloudcover-end":0.2,
+    "moonphase-end":0.45,
+    "Precip_Prior_3_Day":1.8,
+    "Precip_Prior_5_Day":2.88,
+    "Precip_Prior_7_Day":2.88,
+    "Event_Falls":0,
+    "Ride_Count":110,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"3/7/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.71646,33.63024 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T.(Feb 2020)",
+    "temp-end":44.8,
+    "precip-end":0,
+    "wspd-end":21.4,
+    "visibility-end":9.9,
+    "cloudcover-end":13.3,
+    "moonphase-end":0.12,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":1.06,
+    "Precip_Prior_7_Day":1.06,
+    "Event_Falls":4,
+    "Ride_Count":153,
+    "Fall_Rate_Decimal":0.026143791,
+    "Fall_Rate_Percent":2.614379085,
+    "End_Datetime":"2/29/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm February II H.T.(Feb 2020)",
+    "temp-end":59.1,
+    "precip-end":0.33,
+    "wspd-end":18.3,
+    "visibility-end":8.1,
+    "cloudcover-end":79.9,
+    "moonphase-end":0.01,
+    "Precip_Prior_3_Day":0.37,
+    "Precip_Prior_5_Day":1.11,
+    "Precip_Prior_7_Day":2.52,
+    "Event_Falls":0,
+    "Ride_Count":100,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"2/25/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.46623,33.45322 ]
+    },
+    "properties": {
+    "Title":"Pine Top Advanced Horse Trials",
+    "temp-end":57.2,
+    "precip-end":0.05,
+    "wspd-end":11,
+    "visibility-end":4.1,
+    "cloudcover-end":92.5,
+    "moonphase-end":0.54,
+    "Precip_Prior_3_Day":0.24,
+    "Precip_Prior_5_Day":0.41,
+    "Precip_Prior_7_Day":0.9,
+    "Event_Falls":10,
+    "Ride_Count":458,
+    "Fall_Rate_Decimal":0.021834061,
+    "Fall_Rate_Percent":2.183406114,
+    "End_Datetime":"2/22/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.46623,33.45322 ]
+    },
+    "properties": {
+    "Title":"Pine Top Advanced Horse Trials",
+    "temp-end":57.2,
+    "precip-end":0.05,
+    "wspd-end":11,
+    "visibility-end":4.1,
+    "cloudcover-end":92.5,
+    "moonphase-end":0.54,
+    "Precip_Prior_3_Day":0.24,
+    "Precip_Prior_5_Day":0.41,
+    "Precip_Prior_7_Day":0.9,
+    "Event_Falls":10,
+    "Ride_Count":458,
+    "Fall_Rate_Decimal":0.021834061,
+    "Fall_Rate_Percent":2.183406114,
+    "End_Datetime":"2/21/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.64143,28.99305 ]
+    },
+    "properties": {
+    "Title":"Rocking Horse Winter 2 Horse Trials",
+    "temp-end":58,
+    "precip-end":0.01,
+    "wspd-end":9.6,
+    "visibility-end":9.9,
+    "cloudcover-end":3.2,
+    "moonphase-end":0.31,
+    "Precip_Prior_3_Day":0.44,
+    "Precip_Prior_5_Day":0.66,
+    "Precip_Prior_7_Day":0.66,
+    "Event_Falls":20,
+    "Ride_Count":514,
+    "Fall_Rate_Decimal":0.038910506,
+    "Fall_Rate_Percent":3.891050584,
+    "End_Datetime":"2/14/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.64143,28.99305 ]
+    },
+    "properties": {
+    "Title":"Rocking Horse Winter 2 Horse Trials",
+    "temp-end":58,
+    "precip-end":0.01,
+    "wspd-end":9.6,
+    "visibility-end":9.9,
+    "cloudcover-end":3.2,
+    "moonphase-end":0.31,
+    "Precip_Prior_3_Day":0.44,
+    "Precip_Prior_5_Day":0.66,
+    "Precip_Prior_7_Day":0.66,
+    "Event_Falls":20,
+    "Ride_Count":514,
+    "Fall_Rate_Decimal":0.038910506,
+    "Fall_Rate_Percent":3.891050584,
+    "End_Datetime":"2/13/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop February Schooling HT",
+    "temp-end":65.6,
+    "precip-end":0,
+    "wspd-end":8.8,
+    "visibility-end":8.1,
+    "cloudcover-end":64.4,
+    "moonphase-end":0.55,
+    "Precip_Prior_3_Day":0.17,
+    "Precip_Prior_5_Day":0.18,
+    "Precip_Prior_7_Day":2.62,
+    "Event_Falls":1,
+    "Ride_Count":79,
+    "Fall_Rate_Decimal":0.012658228,
+    "Fall_Rate_Percent":1.265822785,
+    "End_Datetime":"2/12/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop February Schooling HT",
+    "temp-end":65.6,
+    "precip-end":0,
+    "wspd-end":8.8,
+    "visibility-end":8.1,
+    "cloudcover-end":64.4,
+    "moonphase-end":0.55,
+    "Precip_Prior_3_Day":0.17,
+    "Precip_Prior_5_Day":0.18,
+    "Precip_Prior_7_Day":2.62,
+    "Event_Falls":1,
+    "Ride_Count":79,
+    "Fall_Rate_Decimal":0.012658228,
+    "Fall_Rate_Percent":1.265822785,
+    "End_Datetime":"2/13/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.46623,33.45322 ]
+    },
+    "properties": {
+    "Title":"Pine Top Intermediate Horse Trials",
+    "temp-end":62.3,
+    "precip-end":0,
+    "wspd-end":16.7,
+    "visibility-end":9.9,
+    "cloudcover-end":18.9,
+    "moonphase-end":0.04,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":9,
+    "Ride_Count":451,
+    "Fall_Rate_Decimal":0.019955654,
+    "Fall_Rate_Percent":1.99556541,
+    "End_Datetime":"2/8/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.46623,33.45322 ]
+    },
+    "properties": {
+    "Title":"Pine Top Intermediate Horse Trials",
+    "temp-end":62.3,
+    "precip-end":0,
+    "wspd-end":16.7,
+    "visibility-end":9.9,
+    "cloudcover-end":18.9,
+    "moonphase-end":0.04,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":9,
+    "Ride_Count":451,
+    "Fall_Rate_Decimal":0.019955654,
+    "Fall_Rate_Percent":1.99556541,
+    "End_Datetime":"2/7/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.13986,29.05603 ]
+    },
+    "properties": {
+    "Title":"Ocala Winter I Horse Trials",
+    "temp-end":75.3,
+    "precip-end":0.21,
+    "wspd-end":31.2,
+    "visibility-end":9.8,
+    "cloudcover-end":72.2,
+    "moonphase-end":0.43,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.05,
+    "Precip_Prior_7_Day":0.05,
+    "Event_Falls":13,
+    "Ride_Count":488,
+    "Fall_Rate_Decimal":0.026639344,
+    "Fall_Rate_Percent":2.663934426,
+    "End_Datetime":"2/6/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm February Horse Trials",
+    "temp-end":63.6,
+    "precip-end":0.39,
+    "wspd-end":12.2,
+    "visibility-end":9.2,
+    "cloudcover-end":64.9,
+    "moonphase-end":0.39,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":1.09,
+    "Precip_Prior_7_Day":1.19,
+    "Event_Falls":0,
+    "Ride_Count":103,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"2/5/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm February Horse Trials",
+    "temp-end":63.6,
+    "precip-end":0.39,
+    "wspd-end":12.2,
+    "visibility-end":9.2,
+    "cloudcover-end":64.9,
+    "moonphase-end":0.39,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":1.09,
+    "Precip_Prior_7_Day":1.19,
+    "Event_Falls":0,
+    "Ride_Count":103,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"2/6/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.83154,28.61913 ]
+    },
+    "properties": {
+    "Title":"Three Lakes Winter 1",
+    "temp-end":66.5,
+    "precip-end":0.01,
+    "wspd-end":10.2,
+    "visibility-end":9.8,
+    "cloudcover-end":71.2,
+    "moonphase-end":0.97,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.2,
+    "Precip_Prior_7_Day":1.67,
+    "Event_Falls":2,
+    "Ride_Count":264,
+    "Fall_Rate_Decimal":0.007575758,
+    "Fall_Rate_Percent":0.757575758,
+    "End_Datetime":"2/2/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.83154,28.61913 ]
+    },
+    "properties": {
+    "Title":"Three Lakes Winter 1",
+    "temp-end":66.5,
+    "precip-end":0.01,
+    "wspd-end":10.2,
+    "visibility-end":9.8,
+    "cloudcover-end":71.2,
+    "moonphase-end":0.97,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.2,
+    "Precip_Prior_7_Day":1.67,
+    "Event_Falls":2,
+    "Ride_Count":264,
+    "Fall_Rate_Decimal":0.007575758,
+    "Fall_Rate_Percent":0.757575758,
+    "End_Datetime":"2/1/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.56326,43.81005 ]
+    },
+    "properties": {
+    "Title":"Sporting Days Farm Feb. HT",
+    "temp-end":25.8,
+    "precip-end":0.02,
+    "wspd-end":5.3,
+    "visibility-end":9.6,
+    "cloudcover-end":94.3,
+    "moonphase-end":0.99,
+    "Precip_Prior_3_Day":0.01,
+    "Precip_Prior_5_Day":0.13,
+    "Precip_Prior_7_Day":0.15,
+    "Event_Falls":11,
+    "Ride_Count":172,
+    "Fall_Rate_Decimal":0.063953488,
+    "Fall_Rate_Percent":6.395348837,
+    "End_Datetime":"2/3/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs Winter H.T.(Jan 2020)",
+    "temp-end":59.4,
+    "precip-end":0,
+    "wspd-end":8.2,
+    "visibility-end":9.9,
+    "cloudcover-end":1.4,
+    "moonphase-end":0.15,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":2,
+    "Ride_Count":170,
+    "Fall_Rate_Decimal":0.011764706,
+    "Fall_Rate_Percent":1.176470588,
+    "End_Datetime":"1/31/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm January H.T(Jan 2020)",
+    "temp-end":44.5,
+    "precip-end":0,
+    "wspd-end":10.7,
+    "visibility-end":9.9,
+    "cloudcover-end":24.7,
+    "moonphase-end":0.01,
+    "Precip_Prior_3_Day":0.62,
+    "Precip_Prior_5_Day":0.62,
+    "Precip_Prior_7_Day":0.79,
+    "Event_Falls":1,
+    "Ride_Count":54,
+    "Fall_Rate_Decimal":0.018518519,
+    "Fall_Rate_Percent":1.851851852,
+    "End_Datetime":"1/26/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.64143,28.99305 ]
+    },
+    "properties": {
+    "Title":"Rocking Horse Winter I H.T.(Jan 2020)",
+    "temp-end":65,
+    "precip-end":0,
+    "wspd-end":9.5,
+    "visibility-end":8.6,
+    "cloudcover-end":54.3,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":0.02,
+    "Precip_Prior_7_Day":0.02,
+    "Event_Falls":9,
+    "Ride_Count":498,
+    "Fall_Rate_Decimal":0.018072289,
+    "Fall_Rate_Percent":1.807228916,
+    "End_Datetime":"1/24/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Grand Oaks Horse Trials(Jan 2020)",
+    "temp-end":63.5,
+    "precip-end":0,
+    "wspd-end":11.9,
+    "visibility-end":9.7,
+    "cloudcover-end":21.1,
+    "moonphase-end":0.78,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.01,
+    "Event_Falls":5,
+    "Ride_Count":191,
+    "Fall_Rate_Decimal":0.02617801,
+    "Fall_Rate_Percent":2.617801047,
+    "End_Datetime":"1/18/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Aiken Opener H.T.",
+    "temp-end":43.7,
+    "precip-end":0,
+    "wspd-end":12.2,
+    "visibility-end":9.3,
+    "cloudcover-end":10.4,
+    "moonphase-end":0.35,
+    "Precip_Prior_3_Day":0.11,
+    "Precip_Prior_5_Day":0.13,
+    "Precip_Prior_7_Day":0.14,
+    "Event_Falls":5,
+    "Ride_Count":267,
+    "Fall_Rate_Decimal":0.018726592,
+    "Fall_Rate_Percent":1.872659176,
+    "End_Datetime":"1/23/21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm January Schooling Show",
+    "temp-end":42,
+    "precip-end":0,
+    "wspd-end":11.9,
+    "visibility-end":9.9,
+    "cloudcover-end":0,
+    "moonphase-end":0.33,
+    "Precip_Prior_3_Day":0.8,
+    "Precip_Prior_5_Day":0.8,
+    "Precip_Prior_7_Day":1.27,
+    "Event_Falls":0,
+    "Ride_Count":19,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"1/5/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.59201,33.52139 ]
+    },
+    "properties": {
+    "Title":"Sporting Days Farm Horse Trials IV(Dec 2019)",
+    "temp-end":52.6,
+    "precip-end":0,
+    "wspd-end":10,
+    "visibility-end":9.9,
+    "cloudcover-end":57.9,
+    "moonphase-end":0.37,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.46,
+    "Event_Falls":1,
+    "Ride_Count":111,
+    "Fall_Rate_Decimal":0.009009009,
+    "Fall_Rate_Percent":0.900900901,
+    "End_Datetime":"12/7/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.46623,33.45322 ]
+    },
+    "properties": {
+    "Title":"Pine Top Thanksgiving Horse Trials",
+    "temp-end":58.6,
+    "precip-end":0,
+    "wspd-end":6.9,
+    "visibility-end":9.9,
+    "cloudcover-end":51.2,
+    "moonphase-end":0.06,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":0.02,
+    "Precip_Prior_7_Day":0.59,
+    "Event_Falls":2,
+    "Ride_Count":143,
+    "Fall_Rate_Decimal":0.013986014,
+    "Fall_Rate_Percent":1.398601399,
+    "End_Datetime":"11/30/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Schooling Horse Trial(November)",
+    "temp-end":49.4,
+    "precip-end":0,
+    "wspd-end":15.8,
+    "visibility-end":9.7,
+    "cloudcover-end":57.7,
+    "moonphase-end":0.61,
+    "Precip_Prior_3_Day":1.61,
+    "Precip_Prior_5_Day":1.76,
+    "Precip_Prior_7_Day":1.76,
+    "Event_Falls":1,
+    "Ride_Count":56,
+    "Fall_Rate_Decimal":0.017857143,
+    "Fall_Rate_Percent":1.785714286,
+    "End_Datetime":"11/17/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.13986,29.05603 ]
+    },
+    "properties": {
+    "Title":"Ocala Jockey Club International 3-Day Event",
+    "temp-end":63,
+    "precip-end":0.01,
+    "wspd-end":10.3,
+    "visibility-end":8.8,
+    "cloudcover-end":79.3,
+    "moonphase-end":0.52,
+    "Precip_Prior_3_Day":0.08,
+    "Precip_Prior_5_Day":0.36,
+    "Precip_Prior_7_Day":0.48,
+    "Event_Falls":6,
+    "Ride_Count":142,
+    "Fall_Rate_Decimal":0.042253521,
+    "Fall_Rate_Percent":4.225352113,
+    "End_Datetime":"11/14/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Majestic Oaks Horse Trials",
+    "temp-end":62.7,
+    "precip-end":0,
+    "wspd-end":11.4,
+    "visibility-end":9.9,
+    "cloudcover-end":66,
+    "moonphase-end":0.14,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":4,
+    "Ride_Count":97,
+    "Fall_Rate_Decimal":0.041237113,
+    "Fall_Rate_Percent":4.12371134,
+    "End_Datetime":"1/12/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm November HT",
+    "temp-end":48.1,
+    "precip-end":0,
+    "wspd-end":14.7,
+    "visibility-end":9.8,
+    "cloudcover-end":0.1,
+    "moonphase-end":0.18,
+    "Precip_Prior_3_Day":0.03,
+    "Precip_Prior_5_Day":0.35,
+    "Precip_Prior_7_Day":0.42,
+    "Event_Falls":2,
+    "Ride_Count":70,
+    "Fall_Rate_Decimal":0.028571429,
+    "Fall_Rate_Percent":2.857142857,
+    "End_Datetime":"11/3/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs International Event & H.T. (Nov 2019)",
+    "temp-end":59.8,
+    "precip-end":0,
+    "wspd-end":10.7,
+    "visibility-end":9.9,
+    "cloudcover-end":0.3,
+    "moonphase-end":0.05,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":3,
+    "Ride_Count":274,
+    "Fall_Rate_Decimal":0.010948905,
+    "Fall_Rate_Percent":1.094890511,
+    "End_Datetime":"10/31/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T.(Oct 2019)",
+    "temp-end":70.6,
+    "precip-end":0.15,
+    "wspd-end":11.9,
+    "visibility-end":9.3,
+    "cloudcover-end":84.8,
+    "moonphase-end":0.97,
+    "Precip_Prior_3_Day":0.07,
+    "Precip_Prior_5_Day":0.24,
+    "Precip_Prior_7_Day":1.46,
+    "Event_Falls":8,
+    "Ride_Count":210,
+    "Fall_Rate_Decimal":0.038095238,
+    "Fall_Rate_Percent":3.80952381,
+    "End_Datetime":"10/26/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08061,39.23332 ]
+    },
+    "properties": {
+    "Title":"Waredaca Classic Horse Trials",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":8.8,
+    "visibility-end":9.9,
+    "cloudcover-end":0.1,
+    "moonphase-end":0.89,
+    "Precip_Prior_3_Day":0.58,
+    "Precip_Prior_5_Day":1.78,
+    "Precip_Prior_7_Day":1.97,
+    "Event_Falls":3,
+    "Ride_Count":116,
+    "Fall_Rate_Decimal":0.025862069,
+    "Fall_Rate_Percent":2.586206897,
+    "End_Datetime":"10/24/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36633,35.01506 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International CCI****/***",
+    "temp-end":62.7,
+    "precip-end":0.5,
+    "wspd-end":10.6,
+    "visibility-end":7.8,
+    "cloudcover-end":73.9,
+    "moonphase-end":0.53,
+    "Precip_Prior_3_Day":1.5,
+    "Precip_Prior_5_Day":1.5,
+    "Precip_Prior_7_Day":1.5,
+    "Event_Falls":12,
+    "Ride_Count":103,
+    "Fall_Rate_Decimal":0.116504854,
+    "Fall_Rate_Percent":11.65048544,
+    "End_Datetime":"10/16/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36633,35.01506 ]
+    },
+    "properties": {
+    "Title":"War Horse Event Series (October 2019)",
+    "temp-end":69.7,
+    "precip-end":1.45,
+    "wspd-end":11.1,
+    "visibility-end":9.2,
+    "cloudcover-end":70.3,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.01,
+    "Precip_Prior_7_Day":0.09,
+    "Event_Falls":0,
+    "Ride_Count":123,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"10/13/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.42949,39.27075 ]
+    },
+    "properties": {
+    "Title":"MDHT at Loch Moy Farm Classic BN3 Day Event & H.T.",
+    "temp-end":59.6,
+    "precip-end":0,
+    "wspd-end":8.1,
+    "visibility-end":9.9,
+    "cloudcover-end":4.2,
+    "moonphase-end":0.46,
+    "Precip_Prior_3_Day":0.22,
+    "Precip_Prior_5_Day":0.26,
+    "Precip_Prior_7_Day":0.26,
+    "Event_Falls":12,
+    "Ride_Count":269,
+    "Fall_Rate_Decimal":0.044609665,
+    "Fall_Rate_Percent":4.460966543,
+    "End_Datetime":"10/11/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7383,41.5735 ]
+    },
+    "properties": {
+    "Title":"Kent School Fall H.T.(Oct 2019)",
+    "temp-end":56.5,
+    "precip-end":0,
+    "wspd-end":13.5,
+    "visibility-end":9.9,
+    "cloudcover-end":81.8,
+    "moonphase-end":0.27,
+    "Precip_Prior_3_Day":0.35,
+    "Precip_Prior_5_Day":0.68,
+    "Precip_Prior_7_Day":0.68,
+    "Event_Falls":2,
+    "Ride_Count":87,
+    "Fall_Rate_Decimal":0.022988506,
+    "Fall_Rate_Percent":2.298850575,
+    "End_Datetime":"10/6/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.82851,35.22747 ]
+    },
+    "properties": {
+    "Title":"Windridge Farm Fall HT",
+    "temp-end":66.3,
+    "precip-end":0.12,
+    "wspd-end":12.2,
+    "visibility-end":9.7,
+    "cloudcover-end":80.3,
+    "moonphase-end":0.22,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.09,
+    "Precip_Prior_7_Day":0.09,
+    "Event_Falls":2,
+    "Ride_Count":69,
+    "Fall_Rate_Decimal":0.028985507,
+    "Fall_Rate_Percent":2.898550725,
+    "End_Datetime":"10/5/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55527,39.14542 ]
+    },
+    "properties": {
+    "Title":"Morven Park Fall International H.T. & CCIS-2/3/4*",
+    "temp-end":67.9,
+    "precip-end":0,
+    "wspd-end":15.2,
+    "visibility-end":9.6,
+    "cloudcover-end":35,
+    "moonphase-end":0.16,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.51,
+    "Precip_Prior_7_Day":0.51,
+    "Event_Falls":11,
+    "Ride_Count":332,
+    "Fall_Rate_Decimal":0.03313253,
+    "Fall_Rate_Percent":3.313253012,
+    "End_Datetime":"10/4/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.24548,37.40747 ]
+    },
+    "properties": {
+    "Title":"Woodside International H.T.(Oct 2019)",
+    "temp-end":56.3,
+    "precip-end":0,
+    "wspd-end":19.6,
+    "visibility-end":9.6,
+    "cloudcover-end":11.9,
+    "moonphase-end":0.12,
+    "Precip_Prior_3_Day":0.01,
+    "Precip_Prior_5_Day":0.01,
+    "Precip_Prior_7_Day":0.01,
+    "Event_Falls":10,
+    "Ride_Count":341,
+    "Fall_Rate_Decimal":0.029325513,
+    "Fall_Rate_Percent":2.93255132,
+    "End_Datetime":"10/3/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.76337,39.05034 ]
+    },
+    "properties": {
+    "Title":"Surefire Horse Trials",
+    "temp-end":73.1,
+    "precip-end":0.02,
+    "wspd-end":10.3,
+    "visibility-end":9.9,
+    "cloudcover-end":40.1,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.01,
+    "Precip_Prior_5_Day":0.03,
+    "Precip_Prior_7_Day":0.03,
+    "Event_Falls":4,
+    "Ride_Count":158,
+    "Fall_Rate_Decimal":0.025316456,
+    "Fall_Rate_Percent":2.53164557,
+    "End_Datetime":"9/28/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.57221,41.86124 ]
+    },
+    "properties": {
+    "Title":"Apple Knoll Farm H.T.(Sep 2019)",
+    "temp-end":66.5,
+    "precip-end":0,
+    "wspd-end":7.3,
+    "visibility-end":9.9,
+    "cloudcover-end":0,
+    "moonphase-end":0.7,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.27,
+    "Event_Falls":1,
+    "Ride_Count":82,
+    "Fall_Rate_Decimal":0.012195122,
+    "Fall_Rate_Percent":1.219512195,
+    "End_Datetime":"9/21/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.331,35.23746 ]
+    },
+    "properties": {
+    "Title":"Feather Creek Farm H.T.(Sept 2019)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":0,
+    "Ride_Count":2,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"9/20/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78744,39.90874 ]
+    },
+    "properties": {
+    "Title":"Plantation Field International",
+    "temp-end":60.2,
+    "precip-end":0,
+    "wspd-end":7.7,
+    "visibility-end":9.9,
+    "cloudcover-end":2.3,
+    "moonphase-end":0.56,
+    "Precip_Prior_3_Day":0.17,
+    "Precip_Prior_5_Day":0.18,
+    "Precip_Prior_7_Day":0.39,
+    "Event_Falls":6,
+    "Ride_Count":185,
+    "Fall_Rate_Decimal":0.032432432,
+    "Fall_Rate_Percent":3.243243243,
+    "End_Datetime":"9/18/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0669,35.28265 ]
+    },
+    "properties": {
+    "Title":"Blue Ridge Mountain Horse Trials at TIEC(Sep 2019)",
+    "temp-end":75.9,
+    "precip-end":0.09,
+    "wspd-end":5.1,
+    "visibility-end":8.7,
+    "cloudcover-end":61.9,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0.1,
+    "Precip_Prior_5_Day":0.23,
+    "Precip_Prior_7_Day":0.23,
+    "Event_Falls":5,
+    "Ride_Count":147,
+    "Fall_Rate_Decimal":0.034013605,
+    "Fall_Rate_Percent":3.401360544,
+    "End_Datetime":"9/14/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.39974,42.25229 ]
+    },
+    "properties": {
+    "Title":"Course Brook Farm Fall Horse Trials",
+    "temp-end":64.6,
+    "precip-end":0.12,
+    "wspd-end":15.8,
+    "visibility-end":9.1,
+    "cloudcover-end":76.4,
+    "moonphase-end":0.3,
+    "Precip_Prior_3_Day":0.14,
+    "Precip_Prior_5_Day":0.61,
+    "Precip_Prior_7_Day":0.61,
+    "Event_Falls":8,
+    "Ride_Count":118,
+    "Fall_Rate_Decimal":0.06779661,
+    "Fall_Rate_Percent":6.779661017,
+    "End_Datetime":"9/7/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.03623,39.19103 ]
+    },
+    "properties": {
+    "Title":"Hunt Club Farms-Eventing For The Cure!",
+    "temp-end":72,
+    "precip-end":0,
+    "wspd-end":6.7,
+    "visibility-end":9.9,
+    "cloudcover-end":26.5,
+    "moonphase-end":0,
+    "Precip_Prior_3_Day":0.42,
+    "Precip_Prior_5_Day":0.45,
+    "Precip_Prior_7_Day":0.45,
+    "Event_Falls":2,
+    "Ride_Count":65,
+    "Fall_Rate_Decimal":0.030769231,
+    "Fall_Rate_Percent":3.076923077,
+    "End_Datetime":"8/31/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T. (Aug 2019)",
+    "temp-end":76.4,
+    "precip-end":0,
+    "wspd-end":13.3,
+    "visibility-end":9.9,
+    "cloudcover-end":5.5,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.42,
+    "Precip_Prior_5_Day":0.63,
+    "Precip_Prior_7_Day":0.86,
+    "Event_Falls":4,
+    "Ride_Count":99,
+    "Fall_Rate_Decimal":0.04040404,
+    "Fall_Rate_Percent":4.04040404,
+    "End_Datetime":"8/30/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.43116,41.93681 ]
+    },
+    "properties": {
+    "Title":"Town Hill Farm Horse Trials(Aug 2019)",
+    "temp-end":66.5,
+    "precip-end":0.02,
+    "wspd-end":9.3,
+    "visibility-end":9.8,
+    "cloudcover-end":19.9,
+    "moonphase-end":0.72,
+    "Precip_Prior_3_Day":1.09,
+    "Precip_Prior_5_Day":1.58,
+    "Precip_Prior_7_Day":2.44,
+    "Event_Falls":6,
+    "Ride_Count":152,
+    "Fall_Rate_Decimal":0.039473684,
+    "Fall_Rate_Percent":3.947368421,
+    "End_Datetime":"8/23/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm August HT(Aug 2019)",
+    "temp-end":79.9,
+    "precip-end":0.27,
+    "wspd-end":12.1,
+    "visibility-end":8.9,
+    "cloudcover-end":48.9,
+    "moonphase-end":0.51,
+    "Precip_Prior_3_Day":2.8,
+    "Precip_Prior_5_Day":2.8,
+    "Precip_Prior_7_Day":3.14,
+    "Event_Falls":0,
+    "Ride_Count":103,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"8/17/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.41017,41.71473 ]
+    },
+    "properties": {
+    "Title":"Catalpa Corner Charity Horse Trial",
+    "temp-end":76.8,
+    "precip-end":0,
+    "wspd-end":8.4,
+    "visibility-end":9.9,
+    "cloudcover-end":0,
+    "moonphase-end":0.03,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.2,
+    "Precip_Prior_7_Day":0.24,
+    "Event_Falls":10,
+    "Ride_Count":172,
+    "Fall_Rate_Decimal":0.058139535,
+    "Fall_Rate_Percent":5.813953488,
+    "End_Datetime":"8/3/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.61338,41.86105 ]
+    },
+    "properties": {
+    "Title":"Millbrook H.T.(Aug 2019)",
+    "temp-end":71.8,
+    "precip-end":0,
+    "wspd-end":8.1,
+    "visibility-end":8.7,
+    "cloudcover-end":7,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.13,
+    "Precip_Prior_5_Day":0.13,
+    "Precip_Prior_7_Day":0.13,
+    "Event_Falls":15,
+    "Ride_Count":377,
+    "Fall_Rate_Decimal":0.039787798,
+    "Fall_Rate_Percent":3.978779841,
+    "End_Datetime":"8/1/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.86013,39.70171 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International June Starter HT",
+    "temp-end":76.2,
+    "precip-end":0.36,
+    "wspd-end":12.7,
+    "visibility-end":9.8,
+    "cloudcover-end":5.8,
+    "moonphase-end":0.92,
+    "Precip_Prior_3_Day":0.03,
+    "Precip_Prior_5_Day":0.03,
+    "Precip_Prior_7_Day":0.03,
+    "Event_Falls":5,
+    "Ride_Count":146,
+    "Fall_Rate_Decimal":0.034246575,
+    "Fall_Rate_Percent":3.424657534,
+    "End_Datetime":"6/29/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Summer Horse Trials",
+    "temp-end":76.3,
+    "precip-end":0.12,
+    "wspd-end":27.5,
+    "visibility-end":9.7,
+    "cloudcover-end":15.1,
+    "moonphase-end":0.6,
+    "Precip_Prior_3_Day":0.22,
+    "Precip_Prior_5_Day":0.41,
+    "Precip_Prior_7_Day":0.41,
+    "Event_Falls":4,
+    "Ride_Count":145,
+    "Fall_Rate_Decimal":0.027586207,
+    "Fall_Rate_Percent":2.75862069,
+    "End_Datetime":"6/22/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.63613,40.68475 ]
+    },
+    "properties": {
+    "Title":"Essex Horse Trials",
+    "temp-end":70.8,
+    "precip-end":0.34,
+    "wspd-end":16.6,
+    "visibility-end":8.5,
+    "cloudcover-end":49,
+    "moonphase-end":0.56,
+    "Precip_Prior_3_Day":1.43,
+    "Precip_Prior_5_Day":1.45,
+    "Precip_Prior_7_Day":1.45,
+    "Event_Falls":9,
+    "Ride_Count":272,
+    "Fall_Rate_Decimal":0.033088235,
+    "Fall_Rate_Percent":3.308823529,
+    "End_Datetime":"6/21/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.22379,42.14542 ]
+    },
+    "properties": {
+    "Title":"Fox River Valley Pony Club HT",
+    "temp-end":62.5,
+    "precip-end":0.34,
+    "wspd-end":13.5,
+    "visibility-end":8.8,
+    "cloudcover-end":72.9,
+    "moonphase-end":0.53,
+    "Precip_Prior_3_Day":0.09,
+    "Precip_Prior_5_Day":0.32,
+    "Precip_Prior_7_Day":0.52,
+    "Event_Falls":11,
+    "Ride_Count":244,
+    "Fall_Rate_Decimal":0.045081967,
+    "Fall_Rate_Percent":4.508196721,
+    "End_Datetime":"6/20/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm June Horse Trials",
+    "temp-end":70.8,
+    "precip-end":0,
+    "wspd-end":5.8,
+    "visibility-end":9.9,
+    "cloudcover-end":0.2,
+    "moonphase-end":0.47,
+    "Precip_Prior_3_Day":0.85,
+    "Precip_Prior_5_Day":1.46,
+    "Precip_Prior_7_Day":3.66,
+    "Event_Falls":2,
+    "Ride_Count":62,
+    "Fall_Rate_Decimal":0.032258065,
+    "Fall_Rate_Percent":3.225806452,
+    "End_Datetime":"6/15/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78744,39.90874 ]
+    },
+    "properties": {
+    "Title":"Plantation Field June Starter Horse Trials",
+    "temp-end":67.7,
+    "precip-end":0,
+    "wspd-end":10.1,
+    "visibility-end":9.9,
+    "cloudcover-end":4.1,
+    "moonphase-end":0.51,
+    "Precip_Prior_3_Day":1.12,
+    "Precip_Prior_5_Day":1.46,
+    "Precip_Prior_7_Day":1.46,
+    "Event_Falls":1,
+    "Ride_Count":145,
+    "Fall_Rate_Decimal":0.006896552,
+    "Fall_Rate_Percent":0.689655172,
+    "End_Datetime":"6/7/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78744,39.90874 ]
+    },
+    "properties": {
+    "Title":"Plantation Field June Starter Horse Trials",
+    "temp-end":67.7,
+    "precip-end":0,
+    "wspd-end":10.1,
+    "visibility-end":9.9,
+    "cloudcover-end":4.1,
+    "moonphase-end":0.51,
+    "Precip_Prior_3_Day":1.12,
+    "Precip_Prior_5_Day":1.46,
+    "Precip_Prior_7_Day":1.46,
+    "Event_Falls":1,
+    "Ride_Count":145,
+    "Fall_Rate_Decimal":0.006896552,
+    "Fall_Rate_Percent":0.689655172,
+    "End_Datetime":"6/9/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78744,39.90874 ]
+    },
+    "properties": {
+    "Title":"Plantation Field H.T.(June 2019)",
+    "temp-end":68.5,
+    "precip-end":0,
+    "wspd-end":15.5,
+    "visibility-end":9.8,
+    "cloudcover-end":0.3,
+    "moonphase-end":0.13,
+    "Precip_Prior_3_Day":0.12,
+    "Precip_Prior_5_Day":0.12,
+    "Precip_Prior_7_Day":0.34,
+    "Event_Falls":1,
+    "Ride_Count":149,
+    "Fall_Rate_Decimal":0.006711409,
+    "Fall_Rate_Percent":0.67114094,
+    "End_Datetime":"6/8/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.331,35.23746 ]
+    },
+    "properties": {
+    "Title":"Feather Creek Farm H.T.(Aug 2019)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":2,
+    "Ride_Count":63,
+    "Fall_Rate_Decimal":0.031746032,
+    "Fall_Rate_Percent":3.174603175,
+    "End_Datetime":"6/7/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Spring Horse Trials",
+    "temp-end":74.1,
+    "precip-end":0.03,
+    "wspd-end":10,
+    "visibility-end":9.4,
+    "cloudcover-end":59.3,
+    "moonphase-end":0.04,
+    "Precip_Prior_3_Day":0.02,
+    "Precip_Prior_5_Day":0.02,
+    "Precip_Prior_7_Day":0.02,
+    "Event_Falls":3,
+    "Ride_Count":179,
+    "Fall_Rate_Decimal":0.016759777,
+    "Fall_Rate_Percent":1.675977654,
+    "End_Datetime":"6/6/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm June Schooling Show",
+    "temp-end":77.5,
+    "precip-end":0,
+    "wspd-end":14.1,
+    "visibility-end":9.9,
+    "cloudcover-end":21.6,
+    "moonphase-end":0.99,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":0,
+    "Ride_Count":35,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"6/2/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.86507,32.7023 ]
+    },
+    "properties": {
+    "Title":"Poplar Place Farm June HT & Area Championships",
+    "temp-end":82,
+    "precip-end":0,
+    "wspd-end":14.9,
+    "visibility-end":9.8,
+    "cloudcover-end":21.3,
+    "moonphase-end":0.94,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":3,
+    "Ride_Count":205,
+    "Fall_Rate_Decimal":0.014634146,
+    "Fall_Rate_Percent":1.463414634,
+    "End_Datetime":"5/31/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.81492,39.89668 ]
+    },
+    "properties": {
+    "Title":"Flora Lea Spring Horse Trials",
+    "temp-end":64.2,
+    "precip-end":0,
+    "wspd-end":9.1,
+    "visibility-end":9.9,
+    "cloudcover-end":36.2,
+    "moonphase-end":0.68,
+    "Precip_Prior_3_Day":0.09,
+    "Precip_Prior_5_Day":0.09,
+    "Precip_Prior_7_Day":0.09,
+    "Event_Falls":1,
+    "Ride_Count":46,
+    "Fall_Rate_Decimal":0.02173913,
+    "Fall_Rate_Percent":2.173913043,
+    "End_Datetime":"5/25/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills May H.T.",
+    "temp-end":76.1,
+    "precip-end":0,
+    "wspd-end":7.8,
+    "visibility-end":9.8,
+    "cloudcover-end":17.6,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.01,
+    "Precip_Prior_7_Day":1.29,
+    "Event_Falls":12,
+    "Ride_Count":278,
+    "Fall_Rate_Decimal":0.043165468,
+    "Fall_Rate_Percent":4.316546763,
+    "End_Datetime":"5/18/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.89656,45.10324 ]
+    },
+    "properties": {
+    "Title":"Otter Creek Spring H.T.(May 2019)",
+    "temp-end":56,
+    "precip-end":0,
+    "wspd-end":11.9,
+    "visibility-end":9.9,
+    "cloudcover-end":20.7,
+    "moonphase-end":0.48,
+    "Precip_Prior_3_Day":0.46,
+    "Precip_Prior_5_Day":0.46,
+    "Precip_Prior_7_Day":0.47,
+    "Event_Falls":7,
+    "Ride_Count":171,
+    "Fall_Rate_Decimal":0.040935673,
+    "Fall_Rate_Percent":4.093567251,
+    "End_Datetime":"5/17/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs Spring Horse Trials (2019)",
+    "temp-end":57.7,
+    "precip-end":0.09,
+    "wspd-end":6.8,
+    "visibility-end":9.9,
+    "cloudcover-end":55.3,
+    "moonphase-end":0.14,
+    "Precip_Prior_3_Day":0.08,
+    "Precip_Prior_5_Day":0.28,
+    "Precip_Prior_7_Day":0.28,
+    "Event_Falls":3,
+    "Ride_Count":185,
+    "Fall_Rate_Decimal":0.016216216,
+    "Fall_Rate_Percent":1.621621622,
+    "End_Datetime":"5/10/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.49821,40.19321 ]
+    },
+    "properties": {
+    "Title":"Jersey Fresh International Three-day Event",
+    "temp-end":61,
+    "precip-end":0.46,
+    "wspd-end":9.7,
+    "visibility-end":9.5,
+    "cloudcover-end":65.8,
+    "moonphase-end":0.05,
+    "Precip_Prior_3_Day":1.75,
+    "Precip_Prior_5_Day":1.8,
+    "Precip_Prior_7_Day":1.8,
+    "Event_Falls":6,
+    "Ride_Count":117,
+    "Fall_Rate_Decimal":0.051282051,
+    "Fall_Rate_Percent":5.128205128,
+    "End_Datetime":"5/8/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.86013,39.70171 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International May Starter HT",
+    "temp-end":63.9,
+    "precip-end":0,
+    "wspd-end":8.9,
+    "visibility-end":5,
+    "cloudcover-end":47.4,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.03,
+    "Precip_Prior_5_Day":0.07,
+    "Precip_Prior_7_Day":0.09,
+    "Event_Falls":1,
+    "Ride_Count":163,
+    "Fall_Rate_Decimal":0.006134969,
+    "Fall_Rate_Percent":0.613496933,
+    "End_Datetime":"5/4/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55527,39.14542 ]
+    },
+    "properties": {
+    "Title":"Loudoun Hunt Pony Club Spring Horse Trial (April 2",
+    "temp-end":59.7,
+    "precip-end":0,
+    "wspd-end":27.3,
+    "visibility-end":9.9,
+    "cloudcover-end":23.7,
+    "moonphase-end":0.76,
+    "Precip_Prior_3_Day":0.51,
+    "Precip_Prior_5_Day":0.51,
+    "Precip_Prior_7_Day":0.52,
+    "Event_Falls":9,
+    "Ride_Count":277,
+    "Fall_Rate_Decimal":0.032490975,
+    "Fall_Rate_Percent":3.249097473,
+    "End_Datetime":"4/27/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36633,35.01506 ]
+    },
+    "properties": {
+    "Title":"Long Leaf Pine Horse Trials - CHP",
+    "temp-end":56.3,
+    "precip-end":0.1,
+    "wspd-end":19.1,
+    "visibility-end":9.9,
+    "cloudcover-end":65.3,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0.39,
+    "Precip_Prior_5_Day":0.63,
+    "Precip_Prior_7_Day":1.65,
+    "Event_Falls":0,
+    "Ride_Count":65,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"4/20/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.86013,39.70171 ]
+    },
+    "properties": {
+    "Title":"Fair Hill International April Horse Trials",
+    "temp-end":67.9,
+    "precip-end":0.13,
+    "wspd-end":18.9,
+    "visibility-end":9.5,
+    "cloudcover-end":40.1,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.33,
+    "Precip_Prior_7_Day":0.67,
+    "Event_Falls":8,
+    "Ride_Count":205,
+    "Fall_Rate_Decimal":0.03902439,
+    "Fall_Rate_Percent":3.902439024,
+    "End_Datetime":"4/19/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Schooling Horse Trial",
+    "temp-end":71.6,
+    "precip-end":0.11,
+    "wspd-end":20.5,
+    "visibility-end":9.9,
+    "cloudcover-end":81.1,
+    "moonphase-end":0.32,
+    "Precip_Prior_3_Day":0.23,
+    "Precip_Prior_5_Day":1.83,
+    "Precip_Prior_7_Day":2.96,
+    "Event_Falls":0,
+    "Ride_Count":58,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"4/14/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.17685,35.19682 ]
+    },
+    "properties": {
+    "Title":"FENCE Horse Trial (April 2019)",
+    "temp-end":52.7,
+    "precip-end":0,
+    "wspd-end":16.9,
+    "visibility-end":9.8,
+    "cloudcover-end":10.8,
+    "moonphase-end":0.02,
+    "Precip_Prior_3_Day":0.04,
+    "Precip_Prior_5_Day":0.04,
+    "Precip_Prior_7_Day":0.04,
+    "Event_Falls":4,
+    "Ride_Count":156,
+    "Fall_Rate_Decimal":0.025641026,
+    "Fall_Rate_Percent":2.564102564,
+    "End_Datetime":"4/13/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.13986,29.05603 ]
+    },
+    "properties": {
+    "Title":"Ocala International 3-Day Festival of Eventing",
+    "temp-end":71.8,
+    "precip-end":0.02,
+    "wspd-end":7.4,
+    "visibility-end":9.6,
+    "cloudcover-end":48.6,
+    "moonphase-end":0.11,
+    "Precip_Prior_3_Day":0.36,
+    "Precip_Prior_5_Day":1.03,
+    "Precip_Prior_7_Day":1.06,
+    "Event_Falls":13,
+    "Ride_Count":417,
+    "Fall_Rate_Decimal":0.03117506,
+    "Fall_Rate_Percent":3.117505995,
+    "End_Datetime":"4/10/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.91386,39.4572 ]
+    },
+    "properties": {
+    "Title":"Full Moon Farms 2019 Spring Thing",
+    "temp-end":58.7,
+    "precip-end":0.01,
+    "wspd-end":11.9,
+    "visibility-end":9.7,
+    "cloudcover-end":61.7,
+    "moonphase-end":0.01,
+    "Precip_Prior_3_Day":0.08,
+    "Precip_Prior_5_Day":0.1,
+    "Precip_Prior_7_Day":0.12,
+    "Event_Falls":1,
+    "Ride_Count":69,
+    "Fall_Rate_Decimal":0.014492754,
+    "Fall_Rate_Percent":1.449275362,
+    "End_Datetime":"4/7/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.70005,33.63993 ]
+    },
+    "properties": {
+    "Title":"Chattahoochee Hills H.T. (April 2019)",
+    "temp-end":64.3,
+    "precip-end":0.18,
+    "wspd-end":11,
+    "visibility-end":9.2,
+    "cloudcover-end":71.4,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.06,
+    "Precip_Prior_5_Day":0.17,
+    "Precip_Prior_7_Day":0.17,
+    "Event_Falls":7,
+    "Ride_Count":267,
+    "Fall_Rate_Decimal":0.026217228,
+    "Fall_Rate_Percent":2.621722846,
+    "End_Datetime":"4/5/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.0669,35.28265 ]
+    },
+    "properties": {
+    "Title":"The Fork at Tryon (April 2019)",
+    "temp-end":53.3,
+    "precip-end":0,
+    "wspd-end":6.6,
+    "visibility-end":9.8,
+    "cloudcover-end":1.3,
+    "moonphase-end":0.98,
+    "Precip_Prior_3_Day":0.08,
+    "Precip_Prior_5_Day":0.08,
+    "Precip_Prior_7_Day":0.08,
+    "Event_Falls":3,
+    "Ride_Count":169,
+    "Fall_Rate_Decimal":0.017751479,
+    "Fall_Rate_Percent":1.775147929,
+    "End_Datetime":"4/3/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm March II H.T. (2019)",
+    "temp-end":60.1,
+    "precip-end":0.01,
+    "wspd-end":18.2,
+    "visibility-end":9.8,
+    "cloudcover-end":30.9,
+    "moonphase-end":0.88,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.09,
+    "Precip_Prior_7_Day":0.58,
+    "Event_Falls":2,
+    "Ride_Count":114,
+    "Fall_Rate_Decimal":0.01754386,
+    "Fall_Rate_Percent":1.754385965,
+    "End_Datetime":"3/31/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55527,39.14542 ]
+    },
+    "properties": {
+    "Title":"Morven Park Spring Horse Trials",
+    "temp-end":45.1,
+    "precip-end":0,
+    "wspd-end":8.6,
+    "visibility-end":9.9,
+    "cloudcover-end":9.7,
+    "moonphase-end":0.99,
+    "Precip_Prior_3_Day":1.48,
+    "Precip_Prior_5_Day":1.48,
+    "Precip_Prior_7_Day":1.48,
+    "Event_Falls":14,
+    "Ride_Count":225,
+    "Fall_Rate_Decimal":0.062222222,
+    "Fall_Rate_Percent":6.222222222,
+    "End_Datetime":"11/14/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.55527,39.14542 ]
+    },
+    "properties": {
+    "Title":"Morven Park Spring Horse Trials",
+    "temp-end":45.1,
+    "precip-end":0,
+    "wspd-end":8.6,
+    "visibility-end":9.9,
+    "cloudcover-end":9.7,
+    "moonphase-end":0.99,
+    "Precip_Prior_3_Day":1.48,
+    "Precip_Prior_5_Day":1.48,
+    "Precip_Prior_7_Day":1.48,
+    "Event_Falls":14,
+    "Ride_Count":225,
+    "Fall_Rate_Decimal":0.062222222,
+    "Fall_Rate_Percent":6.222222222,
+    "End_Datetime":"3/30/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs International Event and H.T. (2019)",
+    "temp-end":55.2,
+    "precip-end":0,
+    "wspd-end":8.1,
+    "visibility-end":9.8,
+    "cloudcover-end":2.6,
+    "moonphase-end":0.79,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.01,
+    "Event_Falls":7,
+    "Ride_Count":293,
+    "Fall_Rate_Decimal":0.023890785,
+    "Fall_Rate_Percent":2.389078498,
+    "End_Datetime":"3/29/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.86507,32.7023 ]
+    },
+    "properties": {
+    "Title":"Poplar Place March Horse Trials (2019)",
+    "temp-end":56.6,
+    "precip-end":0,
+    "wspd-end":5.7,
+    "visibility-end":9.7,
+    "cloudcover-end":0,
+    "moonphase-end":0.53,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":6,
+    "Ride_Count":122,
+    "Fall_Rate_Decimal":0.049180328,
+    "Fall_Rate_Percent":4.918032787,
+    "End_Datetime":"3/23/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.79998,33.64859 ]
+    },
+    "properties": {
+    "Title":"Stable View Spring Horse Trials (2019)",
+    "temp-end":48,
+    "precip-end":0,
+    "wspd-end":13,
+    "visibility-end":9.9,
+    "cloudcover-end":0,
+    "moonphase-end":0.47,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":5,
+    "Ride_Count":230,
+    "Fall_Rate_Decimal":0.02173913,
+    "Fall_Rate_Percent":2.173913043,
+    "End_Datetime":"3/19/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.13986,29.05603 ]
+    },
+    "properties": {
+    "Title":"Ocala Winter II Horse Trials",
+    "temp-end":71.4,
+    "precip-end":0,
+    "wspd-end":12.5,
+    "visibility-end":9.9,
+    "cloudcover-end":24.2,
+    "moonphase-end":0.23,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0,
+    "Event_Falls":9,
+    "Ride_Count":280,
+    "Fall_Rate_Decimal":0.032142857,
+    "Fall_Rate_Percent":3.214285714,
+    "End_Datetime":"3/14/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm March I HT",
+    "temp-end":56.3,
+    "precip-end":0,
+    "wspd-end":10,
+    "visibility-end":6.9,
+    "cloudcover-end":69.6,
+    "moonphase-end":0.03,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0.11,
+    "Precip_Prior_7_Day":0.91,
+    "Event_Falls":0,
+    "Ride_Count":100,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"3/9/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.30026,30.53853 ]
+    },
+    "properties": {
+    "Title":"Red Hills International Horse Trial (March 2019)",
+    "temp-end":43.6,
+    "precip-end":0,
+    "wspd-end":18.3,
+    "visibility-end":9.9,
+    "cloudcover-end":10.2,
+    "moonphase-end":1,
+    "Precip_Prior_3_Day":0.84,
+    "Precip_Prior_5_Day":2.76,
+    "Precip_Prior_7_Day":3.01,
+    "Event_Falls":5,
+    "Ride_Count":181,
+    "Fall_Rate_Decimal":0.027624309,
+    "Fall_Rate_Percent":2.762430939,
+    "End_Datetime":"3/6/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm February H.T.",
+    "temp-end":57.7,
+    "precip-end":0,
+    "wspd-end":9,
+    "visibility-end":9.3,
+    "cloudcover-end":57.7,
+    "moonphase-end":0.78,
+    "Precip_Prior_3_Day":0.21,
+    "Precip_Prior_5_Day":0.21,
+    "Precip_Prior_7_Day":0.57,
+    "Event_Falls":2,
+    "Ride_Count":97,
+    "Fall_Rate_Decimal":0.020618557,
+    "Fall_Rate_Percent":2.06185567,
+    "End_Datetime":"2/27/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.55785,33.57801 ]
+    },
+    "properties": {
+    "Title":"Paradise Farm Horse Trials (February 2019)",
+    "temp-end":54.3,
+    "precip-end":0.07,
+    "wspd-end":12,
+    "visibility-end":9.4,
+    "cloudcover-end":66.6,
+    "moonphase-end":0.36,
+    "Precip_Prior_3_Day":0.23,
+    "Precip_Prior_5_Day":0.38,
+    "Precip_Prior_7_Day":0.38,
+    "Event_Falls":2,
+    "Ride_Count":250,
+    "Fall_Rate_Decimal":0.008,
+    "Fall_Rate_Percent":0.8,
+    "End_Datetime":"2/15/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.03396,33.48728 ]
+    },
+    "properties": {
+    "Title":"Galway Downs Winter Horse Trials",
+    "temp-end":51.4,
+    "precip-end":0.26,
+    "wspd-end":7.3,
+    "visibility-end":8.9,
+    "cloudcover-end":39.4,
+    "moonphase-end":0.94,
+    "Precip_Prior_3_Day":1.05,
+    "Precip_Prior_5_Day":1.05,
+    "Precip_Prior_7_Day":1.05,
+    "Event_Falls":6,
+    "Ride_Count":164,
+    "Fall_Rate_Decimal":0.036585366,
+    "Fall_Rate_Percent":3.658536585,
+    "End_Datetime":"2/1/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm January HT",
+    "temp-end":39.6,
+    "precip-end":0,
+    "wspd-end":11.3,
+    "visibility-end":9.9,
+    "cloudcover-end":1.5,
+    "moonphase-end":0.71,
+    "Precip_Prior_3_Day":1.16,
+    "Precip_Prior_5_Day":1.2,
+    "Precip_Prior_7_Day":1.62,
+    "Event_Falls":0,
+    "Ride_Count":33,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"1/27/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.64143,28.99305 ]
+    },
+    "properties": {
+    "Title":"Rocking Horse Winter 1 HT",
+    "temp-end":49.9,
+    "precip-end":0,
+    "wspd-end":12.6,
+    "visibility-end":9.9,
+    "cloudcover-end":19.8,
+    "moonphase-end":0.6,
+    "Precip_Prior_3_Day":0.53,
+    "Precip_Prior_5_Day":0.74,
+    "Precip_Prior_7_Day":0.74,
+    "Event_Falls":3,
+    "Ride_Count":135,
+    "Fall_Rate_Decimal":0.022222222,
+    "Fall_Rate_Percent":2.222222222,
+    "End_Datetime":"1/25/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.58405,33.57045 ]
+    },
+    "properties": {
+    "Title":"Full Gallop Farm Nov HT",
+    "temp-end":52.8,
+    "precip-end":0.02,
+    "wspd-end":10.7,
+    "visibility-end":9.8,
+    "cloudcover-end":40.9,
+    "moonphase-end":0.93,
+    "Precip_Prior_3_Day":0.54,
+    "Precip_Prior_5_Day":0.54,
+    "Precip_Prior_7_Day":0.54,
+    "Event_Falls":0,
+    "Ride_Count":10,
+    "Fall_Rate_Decimal":0,
+    "Fall_Rate_Percent":0,
+    "End_Datetime":"11/4/18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.21323,29.40346 ]
+    },
+    "properties": {
+    "Title":"Horse Trials at Majestic Oaks (Jan 2020)",
+    "temp-end":72.6,
+    "precip-end":0,
+    "wspd-end":16,
+    "visibility-end":9.3,
+    "cloudcover-end":69.8,
+    "moonphase-end":0.5,
+    "Precip_Prior_3_Day":0,
+    "Precip_Prior_5_Day":0,
+    "Precip_Prior_7_Day":0.54,
+    "Event_Falls":4,
+    "Ride_Count":182,
+    "Fall_Rate_Decimal":0.021978022,
+    "Fall_Rate_Percent":2.197802198,
+    "End_Datetime":"1/11/20"
+    }
+  }
+]
+}
