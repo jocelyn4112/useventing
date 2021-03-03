@@ -115,7 +115,7 @@
                 Learning to identify and predict trends that could make the sport safer using the following processes. 
                 
               </p>
-              <p> This site was developed as an exercise in machine leanring, data analysis, visualization and web deployment. The data is derived fweb scrapes of eventing results and utilizes a MongoDB database. Visualizations are powered by Leaflet, Dash and Plotly. The development process utilized Python, Pandas, JavaScript, Jupyter Notebooks, Flask and Splinter with deployment by Heroku. Plotly, D3, and Simpleheat JaveScript libraries were used.</p>
+              <p> This site is an exercise in machine learning, data engineering & analysis, visualization, and web deployment. The data is derived from web scrapes of eventing results and utilizes a MongoDB database. TensorFlow, Pomegranate and Bayesian models were used in the machine learning development process. Visualizations are powered by Leaflet, Dash, JaveScript, and Plotly. The development process utilized Python, Pandas, JavaScript, Jupyter Notebooks, Flask and Splinter with deployment by Heroku. D3 and Simpleheat JaveScript libraries were used.</p>
               <!-- <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a> -->
             </div>
           </div>
@@ -343,10 +343,10 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Challenges & Observations</h2>
+          <h2>ETL: Challenges & Observations</h2>
           <p></p>
         </div>
-
+        
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
@@ -652,9 +652,38 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing section-bg">
       <div class="container" data-aos="fade-up">
-
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">First</th>
+              <th scope="col">Last</th>
+              <th scope="col">Handle</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Mark</td>
+              <td>Otto</td>
+              <td>@mdo</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Jacob</td>
+              <td>Thornton</td>
+              <td>@fat</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td colspan="2">Larry the Bird</td>
+              <td>@twitter</td>
+            </tr>
+          </tbody>
+        </table>
+        Variants
         <div class="section-title">
-          <h2>Model</h2>
+          <h2>Bayesian Model</h2>
           <p></p>
         </div>
 
@@ -750,7 +779,7 @@ Modern dressage, performed in a standard sized arena, is a prescribed set of mov
             <a data-toggle="collapse" class="collapsed" href="#faq1">How was the database developed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
-                Event results and data were scraped from publicly available sites using Python and Puppeteer for both HTML and JavaScript based sites into MongoDB. These scrapes collected event results for 2019-2020, however data lacked uniformity and underwent multiple stages of cleaning and transformation including but not limited to 14% of cells being transposed, over 1,000 nominal difference in division names, addition location and dates by row, splitting of rider and horse and other issues.  
+                Event results and data were scraped from publicly available sites using Python and Puppeteer for both HTML and JavaScript based sites into MongoDB. These scrapes collected event results for 2019-2020, however data lacked uniformity and underwent multiple stages of cleaning and transformation including but not limited to 14% of cells being transposed, over 1,100 nominal difference in division names, addition location and dates by row, splitting of rider and horse and other issues.  
               </p>
             </div>
           </li>
